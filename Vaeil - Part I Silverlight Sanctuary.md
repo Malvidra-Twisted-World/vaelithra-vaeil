@@ -8,7 +8,7 @@ This chapter introduces the party to **Silverlight**, the first religious order 
 
 Read the following text when you're ready to start:
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > War has swallowed the continent of Dewanegara. Cities burn beneath golden sunlight, and countless soldiers fall every day beneath banners they no longer remember why they carry. Yet far from the battlefield, hidden among towering white cliffs, stands a sanctuary untouched by hatred. Here, wounded soldiers from both Divine and Infernal armies share the same beds. Refugees eat from the same tables. Children laugh without caring which god their parents once worshipped. Above the sanctuary gates hangs a silver emblem — a book, without a spine. This is **Elysgard**.
 
 ## Elysgard
@@ -51,7 +51,7 @@ Moments later, a messenger approaches, clothed in silver robes and head lowered:
 
 The Audience Chamber reflects the teachings of **Vaeil**. There are no lavish decorations, no throne of gold — only endless bookshelves, countless floating manuscripts, and a massive celestial clock slowly turning beneath a crystal floor. At the far end sits an empty seat. Lord Vaeil is nowhere to be seen.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The chamber grows still. Then a calm voice speaks. It comes from nowhere, yet from everywhere — gentle, timeless. "Welcome. Thank you for coming."
 
 ## Meeting Vaeil
@@ -62,7 +62,7 @@ The players never physically see **Vaeil**. His voice resonates naturally throug
 
 After briefly thanking the party for their service, Vaeil explains why they have been summoned:
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > "History has begun whispering a name that does not exist. A resonance has appeared beyond the eastern battlefield. It is neither Divine, nor Infernal, nor does it belong to this era. I cannot leave the Archive. Therefore, I ask Silverlight to seek the truth."
 
 Vaeil answers every question the players ask honestly. However, there is one question even he cannot answer: *"What will we find?"* For the first time, Vaeil hesitates. A brief silence fills the chamber. Then he answers, *"...I do not know."* The room falls silent — several High Archivists exchange uneasy glances. No one has ever heard Vaeil say those words before.
@@ -77,5 +77,5 @@ Before they leave, an elderly archivist quietly hands them a blank leather journ
 
 ## Ending the Chapter
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > As you leave Elysgard, the distant sky glows with fire. Golden sunlight collides with crimson flames beyond the mountains. The Sundering War continues, uncaring, unyielding. Somewhere beyond the eastern battlefield, history is waiting.
