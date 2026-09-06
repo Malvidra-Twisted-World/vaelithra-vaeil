@@ -6,7 +6,7 @@ The battle upon the mountain pass ends not in victory, nor defeat. As the warmth
 
 ## The Sun's Witness
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Golden light spills across the stone bridge. It does not blind your eyes, nor does it scorch your skin — instead, it carries a quiet warmth unlike anything you have ever known. One by one, every knight of Sōyō Gumi kneels, their helmets bowed toward the eastern horizon — and beside them, the Sun Rays who arrived only moments ago bow deepest of all. No voice commands them. They simply know.
 
 A lone traveler walks through the light. He wears no armor, carries no weapon — only a white robe trimmed with threads of gold that sway gently with each step. **Grand Captain Kiyomasa** lowers his head: *"My Lord..."* The traveler nods once, inviting him to rise.
@@ -19,14 +19,14 @@ A lone traveler walks through the light. He wears no armor, carries no weapon �
 
 ***The Promise.*** If the party presses further, Ra explains that many years ago, **Vaeil** came to him with an unusual request — not a prophecy, not a warning, simply a promise:
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > "He asked only one thing of me." Ra turns toward the rising sun. "Guard the road leading to the Infinite Archive. And if one day someone arrives whom history itself cannot explain, bring them home." He smiles faintly. "He never told me who. Nor why."
 
 ## The Hidden Path
 
 **Ra** walks toward the edge of the mountain. Beyond it lies only open sky. He raises a single hand, and the sunlight before him trembles — not with power, but as though reality itself is remembering something long forgotten. A stairway of white stone slowly unfolds from the light, each step appearing only after the previous one, descending toward an impossible horizon.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > At the end of the stairway stands a solitary door — white stone, silver frame. Upon its surface rests a symbol unlike any you've seen before: a book, bound without a spine.
 
 **The silver-eyed woman** instinctively steps forward, then stops. She places a hand over her chest. *"...Why does this place feel familiar?"* No one answers, because no one can.
@@ -43,14 +43,14 @@ Ra exhales quietly, not in triumph, but in understanding: *"...So this is what h
 
 ## The Infinite Archive
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Beyond the doorway stretches a world untouched by ordinary time. Endless shelves rise into a sky without stars. Rivers of pale light flow silently between them. Books drift through the air like leaves carried by invisible currents. Somewhere, a single page turns, then another, then another — not in sequence, but in conversation. Every life, every memory, every story ever lived, quietly breathing together. At the heart of this impossible library, a lone figure continues writing, unaware that history has just arrived at his doorstep.
 
 ### Audience with Vaeil
 
 The figure at the center of the Infinite Archive does not acknowledge the party's arrival, not immediately. He remains seated before a simple wooden desk, a quill gliding effortlessly across a page of silver parchment; the scratching of ink is the only sound within the endless library. Every few moments, another book quietly returns itself to a nearby shelf. Nothing feels hurried, nothing feels rehearsed — only peaceful.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The figure finishes the final sentence. He gently closes the book before him. For a brief moment, everything is still. Then he looks up, his gaze passing across each of you with quiet warmth before finally resting upon the silver-eyed woman. He does not speak. His expression remains unchanged. One heartbeat. Two. Three. His eyes widen, almost imperceptibly. Then a gentle smile finds its way across his face.
 
 The silence lingers — not uncomfortable, but the silence of someone assembling countless scattered thoughts into a single answer. **The silver-eyed woman** lowers her gaze, uncertain why this stranger is smiling at her. Before anyone else can speak, the man quietly exhales, almost to himself: *"...I see."* His smile grows just a little warmer. *"...So this is what the Bell wished to tell me."*
@@ -91,7 +91,7 @@ The woman lowers her head: *"...I'm sorry. I feel as though I should know this p
 
 As the silence settles once more, a single book slips from a nearby shelf and lands softly upon the floor. Then another, and another. Soon, books throughout the Infinite Archive begin leaving their shelves — none fall, none collide, instead drifting gently through the endless hall, like birds returning home after a long winter. **Ra** watches the phenomenon carefully: *"...Vaeil. Is this your doing?"* Without taking his eyes from the Archive, Vaeil answers: *"...No."*
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > One by one, thousands of books abandon their resting places. They circle slowly through the Infinite Archive. Pages turn without unseen hands. Ink rewrites itself. Shelves shift ever so slightly. Rivers of silver light alter their course. The Archive is changing.
 
 ### The Living Archive
@@ -104,7 +104,7 @@ The streams of silver light begin flowing toward the woman, not rapidly, not vio
 
 The final stream of silver light settles into the woman. The heartbeat fades — not because it has stopped, but because it has found its rhythm. The drifting books slowly return to their shelves, the rivers of light calm once more. Everything appears exactly as it did before, yet nothing is the same. **The woman** looks around the Infinite Archive; for the first time, she no longer feels like a visitor. She feels home.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The endless shelves no longer feel silent. They breathe — quietly, patiently, waiting for the stories yet to come. The woman closes her eyes. A single tear falls. When she opens them again, the uncertainty remains, but it is no longer loneliness.
 
 ## Naming the Archive
@@ -123,7 +123,7 @@ The Infinite Archive has grown quiet once more. **Vaelithra** stands silently am
 
 Vaeil slowly approaches the ancient tree at the center of the Archive. Resting beneath its branches lies an immense book unlike any other — its cover bears no title, its pages are completely blank. **Ra** quietly steps closer: *"...I've never seen that one before."* Vaeil smiles faintly: *"Neither have I."*
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Vaeil gently places one hand upon the blank pages. They remain empty, silent, waiting. He turns toward Vaelithra. His expression is gentle, yet uncertain. "May I ask something of you?"
 
 **Vaelithra** nods without hesitation: *"If I can."* Vaeil gestures toward the empty book: *"Place your hand beside mine."* She does. Nothing happens. Several moments pass, the silence stretches. Then one faint silver line appears upon the empty page, another, then another. Soon countless threads begin weaving themselves across the parchment — not words, not pictures, but possibilities.
@@ -140,7 +140,7 @@ Vaeil begins turning pages, slowly, carefully. The possibilities unfold before t
 
 Allow this sequence to continue: dozens, hundreds, thousands. The players should begin to understand that Vaeil has not been searching for victory. He has been searching for mercy.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > One page. Another. Another. Histories rise and fall in the span of a heartbeat. Each one beautiful. Each one tragic. Each one... incomplete.
 
 ### The Final Page
@@ -153,7 +153,7 @@ The three of them look upon the final possibility: a world where the Gods prevai
 
 The final possibility remains suspended upon the blank pages, neither fading nor changing. For several long moments, no one speaks. The vision slowly dissolves, leaving only silence within the Infinite Archive. **Vaeil** gently closes the great tome. His smile remains — not one of triumph, but quiet relief. At last, there is hope.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > As the final page settles, the tome opens once more, by itself. No hand touches it, no wind stirs its pages. It simply continues writing.
 
 Silver ink slowly appears upon the blank parchment, not in any language known to mortals, yet every creature present understands its meaning. The first line is short: **Probability: Near Zero.** Silence. **Ra**'s smile slowly fades: *"...What?"* Another sentence writes itself beneath the first: **History cannot reach this future alone.** Then another: **Intervention Required.** The ink pauses. One final sentence appears, slower than the rest, as though the Archive itself hesitates before writing it: **One Keeper is insufficient.** The silver light fades. The page remains still.
@@ -190,7 +190,7 @@ The Infinite Archive falls silent. No page turns, no silver leaves drift upon th
 
 Vaeil speaks softly: *"From this moment onward... the Infinite Archive shall answer to you."* Vaelithra's eyes widen. She instinctively looks around the endless library — she can feel it, every shelf, every page, every story. They no longer call to Vaeil. They answer her.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Vaeil gently lowers his hand. The silver glow lingers around Vaelithra for only a moment before becoming one with the Infinite Archive. The library breathes — not as a place, but as a living soul.
 
 ### A Promise Across Ages
@@ -205,7 +205,7 @@ Vaelithra listens without speaking. *"Walk beside them. Guide them when they fal
 
 Another stream of silver light leaves him — this time, part of his arm fades with it. Then another: his shoulder, his chest. His form slowly dissolves as each fragment journeys into history. There is no scream, no wound, no struggle. Vaeil is not being destroyed. He is becoming many.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > One fragment races toward an age long forgotten. Another disappears into an era yet to come. More and more lights leave the Keeper of Time, until the heavens themselves resemble a sky filled with newborn stars. Each fragment carries no command, no destiny — only hope.
 
 ### The Final Fragment
