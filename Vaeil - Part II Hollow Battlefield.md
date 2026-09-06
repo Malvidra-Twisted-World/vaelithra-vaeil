@@ -6,7 +6,7 @@ Leaving Elysgard behind, guided by **Kaede Veyr**, the party journeys toward the
 
 ## Journey Across the Battlefield
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The air grows heavier with every mile. Burned siege engines rot beside broken roads. Fields once filled with grain have become forests of shattered spears. Ravens circle overhead. Yet amid the destruction, someone has recently passed this way — bandages wrap abandoned stretchers, fresh graves line the roadside, and every grave bears the same inscription: *"May history remember you."*
 
 Allow the players to investigate the area. Successful checks reveal that someone has recently treated wounded soldiers from both factions, buried the dead regardless of allegiance, escorted refugees toward safer roads, and repaired abandoned wagons. Every witness describes the same individual: *"A young woman... silver eyes... never stayed long enough for anyone to thank her."*
@@ -23,7 +23,7 @@ Near the centre of the village, a young woman kneels beside a broken wagon. She 
 
 Allow the players several minutes to interact with **the woman** and the villagers. She instinctively helps anyone in need, without hesitation repairing equipment, treating wounds, comforting frightened children, and sharing food before eating herself. Nothing about her appears extraordinary — until the alarms sound.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > A terrified refugee bursts into the village. "Soldiers! They're coming!" Moments later, a horn echoes from the western road. Then another, from the east. Two hunting parties, both carrying identical sketches, both searching for the same person.
 
 ***The Radiant Inquisition.*** From the west, disciplined ranks move into formation — white-and-gold armor, banners bearing a divine sunburst, everything about them clean and professional. Their commander, **Ser Kaelion Veyr**, raises a hand and the column halts as one. *"We are looking for someone. No one leaves the village until we are satisfied she isn't here."* Kaelion is no butcher — he won't harm villagers to find his target — but he will not be stopped, either. His elite escort, the **Silverbinders**, carry chains built to suppress teleportation and planar escape, should the rumors about the Catalyst prove true.
@@ -57,7 +57,7 @@ These events reinforce that the battlefield itself is as dangerous as the soldie
 
 ***Running the Woman.*** Throughout the encounter, **the woman** refuses to kill. On her turn she prioritises carrying wounded civilians, stabilising the dying, shielding children, shoving attackers away, and extinguishing fires. Only if a civilian would otherwise die does she attack — and when she finally strikes, describe it:
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Without warning, she steps forward. One soldier lunges. She catches the spear with one hand, twists — the weapon spins harmlessly through the air. Before anyone can react, the attacker is lying unconscious on the ground. She never drew a weapon. She simply continues helping the wounded.
 
 ## Ending the Encounter
@@ -72,7 +72,7 @@ As the fighting dies down, one soldier catches sight of her kneeling beside a wo
 
 She looks between them — Kaelion, Mordren, then the party — and says the only thing she knows to be true:
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > "...I don't know what they're talking about."
 
 This is the moment the party is pulled fully into the story — not by choosing Divine or Infernal, but by asking the question the adventure is really about: why is everyone hunting a woman who was just saving a stranger's life? Give the party the chance to get her out of Hollow Refuge themselves, whether by fighting a path clear, creating a distraction, or simply walking her away while both factions are still recovering. Once she's safe, she turns and begins walking toward the eastern mountains, and the party is free to follow. The anomaly Vaeil sensed has just continued its journey — and so, now, does the party's understanding of what they're actually protecting.

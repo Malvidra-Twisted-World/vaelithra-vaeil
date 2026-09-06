@@ -4,7 +4,7 @@
 
 ## Item Description
 
-> [!loot] The Keeper's Quill
+> [!NOTE] <!--easygit-callout:original=loot,collapse=--> The Keeper's Quill
 > *Wondrous Item, Legendary (Requires Attunement by a creature proficient in Calligrapher's Supplies, or a Spellcaster)*
 >
 > A pristine silver quill once wielded by **Vaeil, the Keeper of the Infinite Archive**, before he entrusted history to Vaelithra and scattered his soul across time. The quill never dulls, never breaks, and never runs dry. When held, faint silver ink flows from its tip, though no ink reservoir can be found.
