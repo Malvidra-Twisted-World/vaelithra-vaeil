@@ -69,30 +69,38 @@ Only now does he stand. He offers a respectful bow, not only to the party, but a
 
 **"You... don't know?"** Vaeil nods: *"No."* He places a hand upon the desk beside him: *"For ages beyond counting, this Archive has preserved every story ever lived."* His fingers lightly brush the surface of a closed book: *"Every birth."* Another book: *"Every death."* Another: *"Every choice."* He looks once more toward the woman: *"...Yet when I look upon her... I find no page."*
 
-**"Then why did you ask Ra to bring her here?"** For the first time, Vaeil's gaze shifts upward, toward the unseen ceiling of the Infinite Archive: *"Because the Bell rang."* Silence. *"Thirteen times."* His expression becomes thoughtful: *"Never before had it done so."* He looks back to the party: *"The Bell did not answer my questions. It merely asked one."*
+**"Then why did you ask Ra to bring her here?"** Vaeil glances toward his friend: *"Long ago, I asked him to guard that road for anyone history could not explain. I did not know whether anyone would come."* He turns back to the party: *"Then the Bell rang thirteen times, and I asked you to investigate. You have brought the question to my door."*
 
 **"What question?"** Vaeil's eyes meet those of the silver-eyed woman: *"...What is history trying to become?"*
 
 **The silver-eyed woman** instinctively takes a small step backward: *"...I don't understand."* Vaeil's smile is filled with genuine kindness: *"I know."* He pauses: *"...Neither do I."* Another silence — not one of uncertainty, but of acceptance. For perhaps the first time in countless ages, even the Keeper of History stands before a page that has yet to be written.
 
+## The Party's Testimony
+
+Before examining the woman, **Vaeil** draws chairs toward the desk and asks the party: *"Tell me what happened. Begin with someone you met."* Give every player a chance to contribute. They may open the journal, show an object, describe an action, or correct another account. Ask concrete follow-up questions rather than requesting a full recap:
+
+- Whom did you bring to safety at Hollow Refuge? Who did you leave behind?
+- What did the woman choose when nobody was asking her to choose?
+- What did you learn about someone you expected to be an enemy?
+
+Use the names and outcomes actually established at the table. If the party lost civilians or used lethal force, record that honestly; neither Vaeil nor the Archive requires a flattering account. If players disagree, preserve their accounts side by side rather than declaring one the official truth.
+
+**The woman** listens, then supplies one detail about a person the party remembers. She can recall the lives she has touched, even though she cannot recall her own beginning. Vaeil places a blank page before her: *"Then let us start with what you do remember."* Ask a PC to help her write or tell that first memory. If no one volunteers, she begins herself; the invitation remains open.
+
 ## The Archive Responds
 
-Without warning, a single book falls from a distant shelf. Then another, then another — none strike the ground, instead drifting slowly through the air. The rivers of light flowing between the shelves begin changing course. Every page in the Infinite Archive turns at once, not violently, almost as if greeting something.
+As that account is given, a book slips from a nearby shelf. It opens to a person named in the testimony. Another follows, then another — the wounded, the missing, the people who survived because of the party, and those who did not.
 
-**Ra** looks around in astonishment: *"...Vaeil. Has this ever happened before?"* Vaeil watches the countless books circle gently through the air. His answer comes as little more than a whisper: *"...Never."*
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
+> Books gather around the desk. Among their pages, you recognize a face from the road, a name spoken beside a grave, a hand reaching from the smoke. Then shelves far beyond your sight begin to stir. Thousands of pages turn toward the woman beside you.
 
-**The silver-eyed woman** instinctively places a hand over her chest. The pendant around Vaeil's neck begins to glow — not because he commands it, not because he wills it, but because the Archive itself has begun to move. Vaeil slowly closes his eyes. When he opens them once more, wonder has replaced certainty. He smiles — not as a god, not as the Keeper of History, but simply as someone privileged enough to witness the birth of a story no one had ever imagined: *"...Then... let us see where this first page leads."*
+**Ra** looks around: *"Vaeil. Is this your doing?"* Vaeil quietly shakes his head. The woman lowers her gaze: *"I feel as though I should know this place... but I don't."* He answers: *"Not every story begins with its first chapter."*
 
 ### The First Page
 
-For a long while, no one speaks. The Infinite Archive remains perfectly still. **Vaeil** stands before the silver-eyed woman, his gentle smile unchanged — not because he understands what has happened, but because, for the first time in countless ages, he has witnessed something entirely new.
+One book remains open before the party. Its account of the woman begins only a few months ago, with her arrival during the war. Before that, there is no recorded birth, journey, or home. Let the players inspect it, compare it with their testimony, and propose explanations. No check is required to notice the gap; an **Intelligence (Arcana or Investigation) check, DC 14**, reveals that the silver thread marking her arrival runs toward a page that has not yet been written. On a failed check, the direction is unclear, but the gap remains visible.
 
-The woman lowers her head: *"...I'm sorry. I feel as though I should know this place... but I don't."* Vaeil quietly shakes his head: *"There is nothing to apologize for. Not every story begins with its first chapter."*
-
-As the silence settles once more, a single book slips from a nearby shelf and lands softly upon the floor. Then another, and another. Soon, books throughout the Infinite Archive begin leaving their shelves — none fall, none collide, instead drifting gently through the endless hall, like birds returning home after a long winter. **Ra** watches the phenomenon carefully: *"...Vaeil. Is this your doing?"* Without taking his eyes from the Archive, Vaeil answers: *"...No."*
-
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> One by one, thousands of books abandon their resting places. They circle slowly through the Infinite Archive. Pages turn without unseen hands. Ink rewrites itself. Shelves shift ever so slightly. Rivers of silver light alter their course. The Archive is changing.
+Vaeil does not name the answer yet. *"A beginning still ahead of us,"* he murmurs. If a player suggests she has traveled backward through time, he answers: *"That would explain the direction. We have yet to see what sends her."*
 
 ### The Living Archive
 
@@ -119,7 +127,7 @@ The name echoes quietly throughout the endless shelves, not as a proclamation, b
 
 ## The Last Possibility
 
-The Infinite Archive has grown quiet once more. **Vaelithra** stands silently among the endless shelves; though newly born, the Archive already answers her presence as naturally as breathing. **Vaeil** watches in thoughtful silence — for countless ages he has been the Keeper of every page ever written, yet never once has he wondered what lay beyond the final page. Until now.
+The Infinite Archive has grown quiet once more. **Vaelithra** stands silently among the endless shelves; though newly entrusted with its care, the Archive already answers her presence as naturally as breathing. **Vaeil** watches in thoughtful silence — for countless ages he has been the Keeper of every page ever written, yet never once has he wondered what lay beyond the final page. Until now.
 
 Vaeil slowly approaches the ancient tree at the center of the Archive. Resting beneath its branches lies an immense book unlike any other — its cover bears no title, its pages are completely blank. **Ra** quietly steps closer: *"...I've never seen that one before."* Vaeil smiles faintly: *"Neither have I."*
 
@@ -130,24 +138,35 @@ Vaeil slowly approaches the ancient tree at the center of the Archive. Resting b
 
 ### The Book Beyond History
 
-Allow the players to observe. No language can fully describe what unfolds. The pages no longer resemble paper; each thread contains an entire history. Worlds are born. Wars begin. Empires rise. Children laugh. Kings fall. Stars vanish. Entire civilizations flicker into existence before dissolving into another possibility. Every choice branches into countless more. The book does not predict — it imagines.
+Invite the party to approach the book. The pages no longer resemble paper; each thread contains an entire possible history. Worlds are born. Wars begin. Empires rise. Every choice branches into countless more. The book does not guarantee a future — it reveals possibilities.
 
-**Ra** watches in silent disbelief: *"...Vaeil... what is this?"* Vaeil cannot look away; his voice is barely more than a whisper: *"...Possibility."* Another page turns, another thousand futures bloom: *"For all these years, I believed the Archive existed only to remember."* He smiles, a quiet, almost disbelieving smile: *"...It was waiting to hope."*
+**Ra** watches in disbelief: *"Vaeil... what is this?"* Vaeil answers: *"Possibility."* He turns toward the party: *"You have walked the roads these pages describe. Help me see who is missing."*
 
 ## Searching for an Answer
 
-Vaeil begins turning pages, slowly, carefully. The possibilities unfold before the party, one after another. A future where the Gods triumph and the Demons are erased — Vaeil quietly closes the page: *"No."* Another, where the Demons conquer the heavens and the mortal world collapses — again he turns the page: *"No."* Another, where the Sundering War never begins and peace remains, but so does endless stagnation, nothing grows, nothing changes — again: *"No."*
+### Lives Within the Possibilities
 
-Allow this sequence to continue: dozens, hundreds, thousands. The players should begin to understand that Vaeil has not been searching for victory. He has been searching for mercy.
+Run two or three brief visions, using people the party actually encountered. Each opens a page around the characters; they can walk through the scene, speak with its inhabitants, and examine what the apparent peace costs. Explain that these are possible futures, not a way to resurrect someone or change the past.
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> One page. Another. Another. Histories rise and fall in the span of a heartbeat. Each one beautiful. Each one tragic. Each one... incomplete.
+| Possibility | What the party can discover | Prompt to return the scene to the players |
+|---|---|---|
+| Divine victory, Infernal erasure | A familiar home stands intact, but every trace of an Infernal neighbor has vanished. The survivors no longer remember that person. | Who do you ask about? What evidence of their life do you preserve? |
+| Infernal conquest, mortal collapse | A survivor the party helped has won revenge, but has no medicine, harvest, or home left to return to. | What do you offer or ask them? What does victory still fail to provide? |
+| A world where war never began, held in endless stasis | A child remains safe, but never grows. A healer treats the same wound every morning. | Whom do you speak to? What change would they choose, even at a risk? |
+
+Give each vision a few minutes. A player can bring a name, a promise, a drawing, or a sentence from the scene back to the journal; physical treasures do not leave the vision. No ability check is needed to uncover its central cost. Use checks only for additional details or an uncertain action the player proposes.
+
+After each vision, ask what the party wants the next page to preserve. Their answers become handwritten annotations beside the futures: a remembered name, the right to grow old, a home shared by former enemies. Vaeil listens and compares those requests with the pages. If the party favors a harsh solution, let them explain it and let the affected person answer; do not require a correct moral speech to continue. The chosen historical future remains Vaeil's responsibility.
 
 ### The Final Page
 
 Without warning, the book stops turning. Vaeil does not force it; neither does Vaelithra. The page simply refuses to move. A single thread of silver and gold stretches across the parchment — unlike every possibility before it, this one remains, neither fading nor changing. **Ra** steps closer, his voice barely audible: *"...What does it show?"*
 
-The three of them look upon the final possibility: a world where the Gods prevail, yet the Demons endure — not as conquerors, not as prisoners, but as survivors. The Sundering War ends. Hatred does not. Yet neither does hope. For the first time, history offers not perfection, only peace. Vaeil quietly exhales. A smile slowly appears — not because he has found certainty, but because he has finally found a future worth protecting.
+Vaeil invites the party to look with him upon the final possibility: a world where the Gods prevail, yet the Demons endure — not as conquerors, not as prisoners, but as survivors. The Sundering War ends. Hatred does not. Yet neither does hope. For the first time, history offers not perfection, only peace. Vaeil quietly exhales. A smile slowly appears — not because he has found certainty, but because he has finally found a future worth protecting.
+
+### A Life Worth Protecting
+
+Show the party one ordinary scene from this future, shaped by their annotations: someone they saved rebuilding a home, a former enemy tending a shared garden, or a child finally growing older. If that person died, show another survivor carrying their name or unfinished work forward; do not undo the death. Ask each player what their character notices. Those details belong in the closing account.
 
 ## The Promise of History
 
@@ -177,6 +196,12 @@ Vaeil watches Vaelithra. She smiles as another book gently returns itself to its
 **Ra** watches him carefully — he already knows that look, the look Vaeil wears whenever a new chapter of history begins: *"...What are you thinking?"* Vaeil smiles, the same warm smile the party first saw beneath the ancient tree: *"I cannot walk every road."* He looks toward the endless shelves: *"But perhaps... a part of me can."*
 
 The chamber falls silent. Even the Archive itself seems to pause. Ra does not answer immediately; he simply looks at his oldest friend. Understanding slowly dawns across his face: *"...If you do this... there will be no turning back."* Vaeil's smile never falters: *"History rarely offers such luxuries."* He turns toward the party, then toward Vaelithra, then finally toward the blank tome: *"If this future truly is possible... then I will entrust it... not to fate."* A gentle breeze stirs the silver leaves overhead: *"...but to those who choose it."*
+
+### Before the Decision
+
+Pause here. Vaeil sets the pendant down and asks: *"What would you ask of someone who carries a part of me?"* Let each PC offer a request, question him about the cost, seek another solution, or refuse to endorse his choice. He considers alternatives sincerely; explain their limits through what the book has shown, without calling for a persuasion roll to authorize his sacrifice. He ultimately chooses to scatter his soul himself, and never asks the party to bear responsibility for his death.
+
+Keep the PCs' words. Vaelithra will record them as requests from the first witnesses, and they shape what she tells Silverlight afterward. They are advice that future guardians may accept or reject, rather than magical commands imposed on the fragments. If a character wants to say goodbye privately, give them that moment before continuing.
 
 ## The Scattering of the Soul
 
@@ -208,6 +233,14 @@ Another stream of silver light leaves him — this time, part of his arm fades w
 > [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > One fragment races toward an age long forgotten. Another disappears into an era yet to come. More and more lights leave the Keeper of Time, until the heavens themselves resemble a sky filled with newborn stars. Each fragment carries no command, no destiny — only hope.
 
+### The Road Back
+
+One of the departing lights pauses beside the open journal. Within it, the party sees the eastern battlefield as it was a few months before their expedition. A silver-eyed woman draws her first breath amid the ruins. The woman standing beside them reaches toward the light; both carry the same pulse.
+
+Stop describing and let the players respond. They may compare the dates, ask Vaelithra what she remembers, or recognize the answer themselves. This is the fragment that became their companion, traveling into the past of this same history. It does not merge with her present self, and it is counted among the Twelve.
+
+Vaeil looks from the departing light to the woman the party brought home. Recognition replaces uncertainty. *"It reached you,"* he says softly. *"Then this part of the plan has already worked."* His gaze returns to the party. *"You helped her find the way back."* The light passes into those earlier months; the woman beside them remains, with the journey she has already lived. The loop closes without restarting the adventure or erasing anyone's choices.
+
 ### The Final Fragment
 
 At last, only one fragment remains. Unlike all the others, it does not depart — it hovers quietly before the Infinite Archive, waiting. The blank tome opens by itself; silver ink appears upon its pages: **Awaiting Bearer...** The fragment remains motionless, as though history itself has not yet reached the era meant for it.
@@ -220,7 +253,7 @@ Vaeil lowers his head: *"...Thank you, my friend."* Ra gently closes the Solar C
 
 Only a faint silhouette of **Vaeil** now remains, his body almost entirely woven from silver light. **Vaelithra** instinctively steps toward him: *"...Vaeil?"* He looks at her, the same warm smile, unchanged: *"Do not grieve. Every ending is only another page."* His voice has already begun to fade: *"And every page... deserves to be turned."*
 
-The final fragment leaves him, silently. His smile is the last thing to disappear. Then the Keeper of Time is gone — not slain, not forgotten, entrusted to history itself.
+With all twelve fragments now departed — the waiting fragment sheltered in the Solar Crest — the last outline of his presence fades. His smile is the last thing to disappear. Then the Keeper of Time is gone — not slain, not forgotten, entrusted to history itself.
 
 ## The Thirteenth Bell
 
@@ -232,4 +265,16 @@ Without warning, the Bell of Time rings — once, twice, again. Its echoes sprea
 
 ## Concluding the Adventure
 
-The Infinite Archive holds a final gift for the party: **the Keeper's Quill**, a wondrous item that preserves the memory of Vaeil's final day. Its full description is given in *Appendix A: Magic Items*.
+### What Leaves the Archive
+
+Before returning the party to Elysgard, **Vaelithra** places their journal beside a fresh copy of its pages. She asks: *"What should we tell them?"* Give the party time to decide what they personally report about Vaeil, the woman, the factions, and the sacrifice. They may preserve a public account, request that dangerous details remain within the Archive, or leave differing testimonies. Vaelithra keeps the complete account, including any disagreement; withholding a secret from the public does not erase it from history.
+
+These decisions have immediate consequences. Choose the details that follow from play:
+
+- Survivors of Hollow Refuge return to Elysgard with their own account of the party. Name who arrives and who is mourned.
+- If Kaelion or Mordren was spared or aided, a messenger brings their acknowledgment, questions, or continued demand. If they died, their people remember who killed them.
+- If the party shares the truth with Silverlight, Eiren must prepare the order to continue without its founder. If they keep it private, she asks what happened and what help they can still offer; play that conversation rather than assuming she accepts the omission.
+
+Give every PC one final action at Elysgard: deliver a promise, record a name, visit a survivor, challenge a leader, or decide where they go next. Read back one sentence from their journal or testimony as the adventure's final line. Their account becomes the Archive's record of Vaeil's last day.
+
+The Infinite Archive also holds a final gift for the party: **the Keeper's Quill**, a wondrous item that preserves the memory of Vaeil's final day. Its full description is given in *Appendix A: Magic Items*.

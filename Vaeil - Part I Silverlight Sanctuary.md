@@ -56,7 +56,7 @@ The Audience Chamber reflects the teachings of **Vaeil**. There are no lavish de
 
 ## Meeting Vaeil
 
-The players never physically see **Vaeil**. His voice resonates naturally throughout the chamber. No divine pressure fills the room, no overwhelming power — only warmth, only calm. Even in the middle of history's greatest war, Vaeil sounds completely at peace.
+For this audience, **Vaeil** remains in the Archive; the party hears his voice rather than seeing him. His voice resonates naturally throughout the chamber. No divine pressure fills the room, no overwhelming power — only warmth, only calm. Even in the middle of history's greatest war, Vaeil sounds completely at peace.
 
 ### Vaeil's Request
 
@@ -72,6 +72,8 @@ Vaeil answers every question the players ask honestly. However, there is one que
 The party is given time to prepare before departure. Allow the players to purchase or exchange equipment, prepare spells, speak with Silverlight members, introduce themselves, and visit any remaining locations inside the sanctuary.
 
 Before they leave, an elderly archivist quietly hands them a blank leather journal. He smiles gently: *"History is written after it happens. Please... bring this one back filled."*
+
+Ask who carries it and who wishes to record the journey. A few names, sketches, or spoken recollections are enough; do not make a player transcribe the session. Keep a short DM list of people saved or lost, promises made, and how each faction was treated. These become the material the party brings to the Archive in Part IV. The journal is useful, but losing it never blocks the story.
 
 **Eiren Valora** assigns **Kaede Veyr** to guide the party east — Kaede knows the safest routes through the front and has made this crossing before. She isn't told why the party is going, only where.
 

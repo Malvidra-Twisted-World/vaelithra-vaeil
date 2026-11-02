@@ -36,6 +36,14 @@ Here's an overview of what you'll find:
 - **Adventure Sites.** Four parts describe the party's journey from Silverlight Sanctuary, across the eastern battlefield, through the mountain pass, and finally into the Infinite Archive itself.
 - **Appendices.** Three appendices describe the magic item, the homebrewed creatures, and an optional roleplay mechanic that appear in the adventure.
 
+## The Closed Loop (DM Only)
+
+The silver-eyed woman is **one of Vaeil's Twelve Fragments**. When he scatters his soul at the end of this adventure, her fragment travels back only a few months, into the same timeline, and becomes the woman the party finds at Hollow Refuge. Her arrival helps bring about the decision that sends her there. This is a closed causal loop: history fulfills itself, without a reset or a branching timeline. The Vaelithra manifestations in the other adventures belong to Vaeil's other fragments; do not assume they are all this woman's disguises.
+
+At the opening, Vaeil has not yet understood the anomaly. Let recognition come through the party's evidence and the scattering itself: the presence he could not explain becomes proof that his plan has already reached the past. The woman is already a soul fragment when she enters the Archive; receiving its authority does not create her or add a thirteenth fragment. Her missing page reflects a life whose origin still lies ahead of this moment, not a person without a soul.
+
+Keep the initial mystery intact. Reveal the loop in Part IV, allowing the players to connect the evidence before Vaeil confirms it.
+
 ## Adventure Background
 
 Long before the modern age, the continent was known simply as **Dewanegara**. For centuries, the Divine and Infernal races coexisted beneath an uneasy peace. Yet many among the Infernal people believed the very name *Dewanegara* ("Realm of the Gods") symbolised their exclusion from a world they also called home. Their appeals for recognition were repeatedly ignored. Some Divine leaders dismissed the complaints as insignificant; others believed acknowledging the Infernal race would weaken Divine authority. Resentment slowly became unrest. Unrest became violence. Violence became war. The conflict would later be remembered as **the Sundering War**.
@@ -105,7 +113,9 @@ Kaede is the NPC most likely to accompany or guide the party once they leave Ely
 
 The central conflict of this adventure is **not good versus evil**. Both the Divine and Infernal races contain individuals driven by hatred, compassion, ambition, sacrifice, fear, and hope. Encourage the players to see the war through multiple perspectives before reaching the Archive, where the truth behind the conflict and the origin of Human Vaelithra are finally revealed.
 
-Although the players witness many pivotal historical events, they are **not meant to alter history**. Instead, they become witnesses to the very moment that shaped the future of Dewanegara.
+The historical destination is fixed: Vaeil scatters his soul, Vaelithra receives the Archive, and Ra safeguards the waiting fragment. Explain this premise when introducing the one-shot. Within it, the players decide whom they save, whom they trust, which testimony reaches the Archive, and what Silverlight tells the world afterward. Carry those consequences into the ending.
+
+Part IV contains three places to hand the scene back to the players: **The Party's Testimony**, **Lives Within the Possibilities**, and **What Leaves the Archive**. Ask each player for a contribution, accept actions as well as speeches, and pause NPC dialogue whenever a character intervenes. The gods need the party's account of the journey; do not let Ra provide answers about events he did not witness.
 
 ### DM Tips
 
@@ -123,7 +133,7 @@ Although the players witness many pivotal historical events, they are **not mean
 
 ## Important NPCs
 
-**Vaeil**, God of Time and Keeper of the Archive, founded Silverlight and refuses to take a side in the Sundering War. He isn't a distant, cryptic god — play him as warm, patient, quietly funny, and genuinely fond of simple conversation; he dislikes being worshipped and would rather ask a grieving soldier "Have you eaten?" than offer philosophy. He is, however, quietly exhausted — not physically, but from having seen too many ways this war could end, and none of them good. The players never physically see him; his voice resonates naturally throughout the Audience Chamber, gentle and timeless, without divine pressure. He answers every question honestly — including, for the first time in his existence, with "I do not know."
+**Vaeil**, God of Time and Keeper of the Archive, founded Silverlight and refuses to take a side in the Sundering War. He isn't a distant, cryptic god — play him as warm, patient, quietly funny, and genuinely fond of simple conversation; he dislikes being worshipped and would rather ask a grieving soldier "Have you eaten?" than offer philosophy. He is, however, quietly exhausted — not physically, but from having seen too many ways this war could end, and none of them good. During the Part I audience, his voice resonates naturally throughout the Audience Chamber, gentle and timeless, without divine pressure. He answers every question honestly — including, for the first time in his existence, with "I do not know."
 
 **Ra**, God of the Sun, is one of Vaeil's closest allies — and his opposite in temperament. Where Vaeil deliberates, Ra acts: bold, charismatic, confident, a little stubborn, protective of the people under his light, and quick to anger at injustice, but socially sharper than he lets on. He commands no army in the conventional sense — his followers, **Sōyō Gumi** ("the Sun's Host"), follow him not because he gives orders but because, when he arrives, *"the Sun has risen"* and they simply know what to do. Sōyō Gumi fights on the Divine side of the war but doesn't answer to it: their creed, *"the Sun shines upon all,"* puts them at odds with factions like the Radiant Inquisition, who believe the Divine race is owed victory. Long ago, Vaeil asked Ra to guard the road to the Infinite Archive and, should someone history itself cannot explain ever arrive, to bring them home — Ra agreed without knowing why, and never learned who he was watching for until she was standing in front of him. Ra is later entrusted with safeguarding the final Fragment of Vaeil's soul within the Solar Crest — not as a god receiving an order, but as one friend trusting another with a piece of himself.
 
