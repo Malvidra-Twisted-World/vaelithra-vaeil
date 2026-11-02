@@ -6,10 +6,9 @@ Leaving Elysgard behind, guided by **Kaede Veyr**, the party journeys toward the
 
 ## Journey Across the Battlefield
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> The air grows heavier with every mile. Burned siege engines rot beside broken roads. Fields once filled with grain have become forests of shattered spears. Ravens circle overhead. Yet amid the destruction, someone has recently passed this way — bandages wrap abandoned stretchers, fresh graves line the roadside, and every grave bears the same inscription: *"May history remember you."*
+>> The air grows heavier with every mile. Burned siege engines rot beside broken roads. Fields once filled with grain have become forests of shattered spears. Ravens circle overhead. Yet amid the destruction, someone has recently passed this way — bandages wrap abandoned stretchers, fresh graves line the roadside, and every grave bears the same inscription: *"May history remember you."*
 
-Allow the players to investigate the area. Successful checks reveal that someone has recently treated wounded soldiers from both factions, buried the dead regardless of allegiance, escorted refugees toward safer roads, and repaired abandoned wagons. Every witness describes the same individual: *"A young woman... silver eyes... never stayed long enough for anyone to thank her."*
+***Following the Trail.*** The bandages, graves, and repaired wagons are visible from the road. Survivors confirm that a woman with silver eyes treated wounded soldiers from both factions and escorted refugees toward Hollow Refuge. No check is needed to learn the direction of the settlement. A character who succeeds on a DC 13 Wisdom (Medicine or Survival) check determines that she traveled on foot, stopping repeatedly to help others rather than taking the quickest route.
 
 ## Hollow Refuge
 
@@ -19,12 +18,11 @@ Eventually the trail leads to a ruined farming village. Though abandoned by both
 
 Near the centre of the village, a young woman kneels beside a broken wagon. She calmly repairs a damaged wheel while two children watch with fascination. She wears no armour, carries no banner, and bears no holy symbol — only a worn travelling cloak. When spoken to, she is polite but distant, and cannot answer even the simplest question:
 
->"What is your name?" "...I don't know." "Where are you going?" "...Someone is waiting for me." "Who?" "I wish I knew."
+***Speaking with the Woman.*** She does not remember her name or where she came from. She feels drawn toward the eastern mountains, as though someone there is waiting for her, but cannot identify whom. She has spent the past few months helping people displaced by the war. The title "Catalyst" frightens her because violence follows wherever it is used.
 
-Allow the players several minutes to interact with **the woman** and the villagers. She instinctively helps anyone in need, without hesitation repairing equipment, treating wounds, comforting frightened children, and sharing food before eating herself. Nothing about her appears extraordinary — until the alarms sound.
+The woman continues repairing the wagon while speaking. She shares food before eating herself and interrupts conversation to help anyone in need. When the characters have spoken with her and the villagers, a refugee returns with news of approaching soldiers.
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> A terrified refugee bursts into the village. "Soldiers! They're coming!" Moments later, a horn echoes from the western road. Then another, from the east. Two hunting parties, both carrying identical sketches, both searching for the same person.
+>> A terrified refugee bursts into the village. "Soldiers! They're coming!" Moments later, a horn echoes from the western road. Then another, from the east. Two hunting parties, both carrying identical sketches, both searching for the same person.
 
 ***The Radiant Inquisition.*** From the west, disciplined ranks move into formation — white-and-gold armor, banners bearing a divine sunburst, everything about them clean and professional. Their commander, **Ser Kaelion Veyr**, raises a hand and the column halts as one. *"We are looking for someone. No one leaves the village until we are satisfied she isn't here."* Kaelion is no butcher — he won't harm villagers to find his target — but he will not be stopped, either. His elite escort, the **Silverbinders**, carry chains built to suppress teleportation and planar escape, should the rumors about the Catalyst prove true.
 
@@ -32,15 +30,13 @@ Allow the players several minutes to interact with **the woman** and the village
 
 ## Encounter: Caught Between Two Fires
 
-This encounter is not won simply by defeating enemies. The party succeeds if they can prevent the refugees from being massacred while surviving the conflict.
+The rival forces enter from opposite roads and initially engage each other. The woman and the civilians are caught between them. Characters can organize an evacuation, negotiate a ceasefire, conceal the woman, or intervene in the fighting.
 
-**Set the stakes.** Before initiative or negotiation, identify six civilians in immediate danger; the remaining villagers are already sheltering away from the road. Invite the players to help name these six and place them around the village. Tell the party where the threats are and what actions can move someone to safety. A civilian who reaches a secure shelter or evacuation route stays safe unless a new, clearly announced threat reaches it.
+***Civilians.*** Six villagers remain exposed near the central wagon: its wounded driver, two children watching the repair, an elderly cook carrying a pot, a refugee supporting an injured companion, and that companion. The remaining villagers have reached shelter away from the road. The characters can see the six exposed people and the paths leading to the sheltered houses. Moving a civilian to a secure shelter or beyond the fighting removes that person from immediate danger unless a later event visibly threatens that location.
 
-**Success.** At least four of those six civilians reach safety, and the woman leaves without being held by either faction. A negotiated evacuation or concealed departure counts fully.
+***Evacuation.*** If at least four of the six exposed civilians reach safety and the woman leaves without being held by either faction, the evacuation succeeds. A concealed departure or negotiated escort is equally effective. If fewer survive, those losses remain part of the expedition's account; the village suffers only the damage caused during the encounter. Recognition of the Catalyst depends on whether soldiers see her, separately from the outcome of the evacuation.
 
-**Costly Escape.** If fewer than four reach safety, continue with the people actually saved and the losses actually suffered. Describe only the destruction caused during play. Being recognized as the Catalyst is a separate consequence of being seen, not an automatic punishment for casualties.
-
-**If She Is Captured.** The captors want her alive. Pause the fighting for a custody negotiation, an escort offer, or a rescue attempt; each commander is willing to hear a practical way to keep her out of the rival faction's hands. Ask the party what they do, and follow that choice before resuming the mountain journey. Do not simply have her escape off-screen.
+***Capturing the Woman.*** Both commanders want her alive. If either faction takes custody, its leader pauses to demand the party's cooperation. A joint escort, a prisoner exchange, or a plan to keep her beyond the rival's reach can reopen negotiations. A rescue attempt is also possible. Resolve custody before continuing toward the mountains.
 
 This encounter assumes 4–5 level 7 characters and pits **Ser Kaelion Veyr** and four **Silverbinders** of the Radiant Inquisition against **Mordren Ashveil** and five **Covenant Warband** soldiers of the Ashen Covenant. Full stat modifications for these creatures are given in *Appendix B: Creatures*.
 
@@ -53,7 +49,7 @@ This encounter assumes 4–5 level 7 characters and pits **Ser Kaelion Veyr** an
 | 3 | Panicked children flee across the battlefield. They provoke opportunity attacks unless protected. |
 | 4 | A burning cart collapses, creating difficult terrain in a 20-foot area. |
 
-These events reinforce that the battlefield itself is as dangerous as the soldiers.
+Announce the location and immediate danger of each event before resolving it. Civilians already evacuated remain safe unless the new event threatens their shelter.
 
 ***Running the Enemy.*** Neither faction initially targets the party. Instead, the Silverbinders engage the Covenant Warband, and the Covenant Warband returns fire. Any soldier who spots the silver-eyed woman immediately changes priorities. **Kaelion** wants her taken alive and unharmed — "*Nobody touch her. Bring her to me.*" **Mordren** wants her out of Kaelion's reach — "*Don't listen to him! They're going to imprison you! Get her out!*" Neither intends to kill her; both believe what happens next only works if she survives it.
 
@@ -61,12 +57,11 @@ These events reinforce that the battlefield itself is as dangerous as the soldie
 
 ***Running the Woman.*** Throughout the encounter, **the woman** refuses to kill. On her turn she prioritises carrying wounded civilians, stabilising the dying, shielding children, shoving attackers away, and extinguishing fires. Only if a civilian would otherwise die does she attack — and when she finally strikes, describe it:
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> Without warning, she steps forward. One soldier lunges. She catches the spear with one hand, twists — the weapon spins harmlessly through the air. Before anyone can react, the attacker is lying unconscious on the ground. She never drew a weapon. She simply continues helping the wounded.
+>> Without warning, she steps forward. One soldier lunges. She catches the spear with one hand, twists — the weapon spins harmlessly through the air. Before anyone can react, the attacker is lying unconscious on the ground. She never drew a weapon. She simply continues helping the wounded.
 
-## Ending the Encounter
+### Development
 
-Use the confrontation below only if soldiers remain present and the woman has not already been recognized or successfully concealed. If she escaped unseen, honor that success: she speaks with the party privately on the evacuation route. If the party negotiated custody or an escort, play the agreed departure instead. Do not return withdrawn or dead commanders to the scene.
+If the woman escapes unseen, the expedition leaves without further confrontation. If custody or an escort was negotiated, the departure follows that agreement. Otherwise, surviving soldiers who remain in the village can recognize her as described below; withdrawn or dead commanders are absent.
 
 If the confrontation applies, one soldier catches sight of her kneeling beside a wounded child. His eyes widen. *"...Silver eyes."* Everyone stops. Someone shouts it outright: **"THE CATALYST!"**
 
@@ -78,7 +73,6 @@ If the confrontation applies, one soldier catches sight of her kneeling beside a
 
 She looks between them — Kaelion, Mordren, then the party — and says the only thing she knows to be true:
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> "...I don't know what they're talking about."
+>> "...I don't know what they're talking about."
 
-This is the moment the party is pulled fully into the story — not by choosing Divine or Infernal, but by asking the question the adventure is really about: why is everyone hunting a woman who was just saving a stranger's life? Give the party the chance to get her out of Hollow Refuge themselves, whether by fighting a path clear, creating a distraction, or simply walking her away while both factions are still recovering. Once she's safe, she turns and begins walking toward the eastern mountains, and the party is free to follow. The anomaly Vaeil sensed has just continued its journey — and so, now, does the party's understanding of what they're actually protecting.
+The commanders' competing demands leave an opportunity to extract the woman by distraction, negotiation, or force. If the characters have already secured her departure, this exchange does not occur. Once safe, she asks to continue toward the eastern mountains. Kaede knows the mountain road and can guide the expedition onward. Record the surviving villagers and any promises made before beginning Part III.

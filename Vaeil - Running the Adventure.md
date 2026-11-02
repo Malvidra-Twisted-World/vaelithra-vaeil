@@ -115,7 +115,7 @@ The central conflict of this adventure is **not good versus evil**. Both the Div
 
 The historical destination is fixed: Vaeil scatters his soul, Vaelithra receives the Archive, and Ra safeguards the waiting fragment. When introducing the one-shot, explain that this is an origin story with established historical events, while the lives and choices along the journey remain in their hands; keep the specific ending secret. Within it, the players decide whom they save, whom they trust, which testimony reaches the Archive, and what Silverlight tells the world afterward. Carry those consequences into the ending.
 
-Part IV contains three places to hand the scene back to the players: **The Party's Testimony**, **Lives Within the Possibilities**, and **What Leaves the Archive**. Ask each player for a contribution, accept actions as well as speeches, and pause NPC dialogue whenever a character intervenes. The gods need the party's account of the journey; do not let Ra provide answers about events he did not witness.
+In Part IV, the characters give their testimony at **Vaeil's Desk**, investigate **Histories That Might Be**, and decide on **The Public Account** before returning to Elysgard. Their expedition supplies names and experiences that Ra did not witness. These become part of the Archive's record and determine the personal consequences shown in the ending.
 
 ### DM Tips
 

@@ -8,8 +8,7 @@ This chapter introduces the party to **Silverlight**, the first religious order 
 
 Read the following text when you're ready to start:
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> War has swallowed the continent of Dewanegara. Cities burn beneath golden sunlight, and countless soldiers fall every day beneath banners they no longer remember why they carry. Yet far from the battlefield, hidden among towering white cliffs, stands a sanctuary untouched by hatred. Here, wounded soldiers from both Divine and Infernal armies share the same beds. Refugees eat from the same tables. Children laugh without caring which god their parents once worshipped. Above the sanctuary gates hangs a silver emblem — a book, without a spine. This is **Elysgard**.
+>> War has swallowed the continent of Dewanegara. Cities burn beneath golden sunlight, and countless soldiers fall every day beneath banners they no longer remember why they carry. Yet far from the battlefield, hidden among towering white cliffs, stands a sanctuary untouched by hatred. Here, wounded soldiers from both Divine and Infernal armies share the same beds. Refugees eat from the same tables. Children laugh without caring which god their parents once worshipped. Above the sanctuary gates hangs a silver emblem — a book, without a spine. This is **Elysgard**.
 
 ## Elysgard
 
@@ -19,11 +18,17 @@ Every member of Silverlight lives according to the Three Oaths — *Record the T
 
 ### Exploring Elysgard
 
-Give the party several minutes to introduce their characters and explore the sanctuary. Possible roleplaying opportunities include helping physicians treat wounded civilians, recording stories from refugees, returning damaged books to the Grand Library, speaking with Divine and Infernal survivors, and visiting the Hall of Memory. During these conversations, emphasize one recurring idea: Silverlight does not ask "Which side are you on?" It asks "Who still needs saving?"
+The sanctuary's common areas are open to the characters. Its inhabitants know them as members of Silverlight and readily ask for help. The following places offer opportunities to meet the order's leadership before the expedition.
 
-***Hall of Memory.*** Thousands of silver plaques cover the walls, each bearing a single name — no rank, no race, no nation, only a life that once existed. Members of Silverlight silently place fresh flowers beneath newly engraved names each morning.
+***Medical Hall.*** Aru Sembara tends Divine and Infernal wounded in neighboring beds. Two recovering soldiers are arguing over space on a bench; Aru tells them to share it. Characters who assist her can hear accounts of the eastern front from either side. Neither army has been able to hold a safe route for refugees.
 
-***Meeting the Order.*** This is a good time to introduce whichever members of Silverlight's First Generation leadership (see *Running the Adventure*) you'd like the party to know — **Eiren Valora** overseeing the sanctuary, **Miyora Aster** tending the temple, **Hakon Veyr** briefing returning Knights, **Sena Thorne** recording a refugee's testimony, **Aru Sembara** scolding a Divine and an Infernal soldier into sharing a bench, or **Kaede Veyr** trading stories with the children. If **Vaeil** happens to be visiting Elysgard when the party arrives, no one treats it as remarkable — Miyora is as likely to ask him "Have you eaten?" as to bow, and he answers as anyone would: *"...I am a god."* *"And?"*
+***Hall of Memory.*** Thousands of silver plaques bear the names of the war's dead, without rank, race, or nation. Sena Thorne is recording a refugee's testimony beside a newly engraved plaque. She welcomes another witness or help identifying an unnamed victim. Where a name cannot be recovered, she records what is known rather than omitting the person.
+
+***Grand Library.*** Rescued manuscripts lie open on long tables. Hakon Veyr is briefing Knights returning from an evacuation; he can describe the dangers of crossing the front but has no report of the anomaly Vaeil will ask the characters to investigate.
+
+***Temple of Vaeil.*** Miyora Aster tends the temple while Eiren Valora speaks with returning members of the order. The temple is a place of worship and sanctuary, distinct from the Infinite Archive. Vaeil sometimes visits Elysgard in person and is treated with familiar affection, but he is in the Archive when the bell rings in this chapter.
+
+***Courtyard.*** Kaede Veyr trades stories with refugee children near the sanctuary gates. She has crossed the eastern front before and can describe the mountain roads beyond it. Eiren later assigns her to accompany the expedition.
 
 ### The Bell of Time
 
@@ -31,7 +36,7 @@ Without warning, a deep bell echoes across the sanctuary. Everyone pauses. It to
 
 Silence follows. No one speaks. A young archivist drops the scroll he had been carrying. A battlefield physician freezes in place. Even the children stop playing. An elderly High Archivist whispers with trembling lips, *"Impossible..."* Another quietly replies, *"The Bell of Time has no thirteenth toll..."*
 
-The Bell of Time has long served as Silverlight's warning system. The players are not expected to understand its meaning — neither does Silverlight.
+The Bell of Time serves as Silverlight's warning system. Members can explain its familiar signals, listed below, but no one present knows the meaning of the thirteenth toll.
 
 ##### Bell of Time
 
@@ -51,19 +56,15 @@ Moments later, a messenger approaches, clothed in silver robes and head lowered:
 
 The Audience Chamber reflects the teachings of **Vaeil**. There are no lavish decorations, no throne of gold — only endless bookshelves, countless floating manuscripts, and a massive celestial clock slowly turning beneath a crystal floor. At the far end sits an empty seat. Lord Vaeil is nowhere to be seen.
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> The chamber grows still. Then a calm voice speaks. It comes from nowhere, yet from everywhere — gentle, timeless. "Welcome. Thank you for coming."
+>> The chamber grows still. Then a calm voice speaks. It comes from nowhere, yet from everywhere — gentle, timeless. "Welcome. Thank you for coming."
 
-## Meeting Vaeil
+### Speaking with Vaeil
 
 For this audience, **Vaeil** remains in the Archive; the party hears his voice rather than seeing him. His voice resonates naturally throughout the chamber. No divine pressure fills the room, no overwhelming power — only warmth, only calm. Even in the middle of history's greatest war, Vaeil sounds completely at peace.
 
-### Vaeil's Request
+***Vaeil's Request.*** After briefly thanking the party for their service, Vaeil explains why they have been summoned:
 
-After briefly thanking the party for their service, Vaeil explains why they have been summoned:
-
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> "History has begun whispering a name that does not exist. A resonance has appeared beyond the eastern battlefield. It is neither Divine, nor Infernal, nor does it belong to this era. I cannot leave the Archive. Therefore, I ask Silverlight to seek the truth."
+>> "History has begun whispering a name that does not exist. A resonance has appeared beyond the eastern battlefield. It is neither Divine, nor Infernal, nor does it belong to this era. I cannot leave the Archive. Therefore, I ask Silverlight to seek the truth."
 
 Vaeil answers every question the players ask honestly. However, there is one question even he cannot answer: *"What will we find?"* For the first time, Vaeil hesitates. A brief silence fills the chamber. Then he answers, *"...I do not know."* The room falls silent — several High Archivists exchange uneasy glances. No one has ever heard Vaeil say those words before.
 
@@ -73,11 +74,10 @@ The party is given time to prepare before departure. Allow the players to purcha
 
 Before they leave, an elderly archivist quietly hands them a blank leather journal. He smiles gently: *"History is written after it happens. Please... bring this one back filled."*
 
-Ask who carries it and who wishes to record the journey. A few names, sketches, or spoken recollections are enough; do not make a player transcribe the session. Keep a short DM list of people saved or lost, promises made, and how each faction was treated. These become the material the party brings to the Archive in Part IV. The journal is useful, but losing it never blocks the story.
+***The Expedition Journal.*** The journal can hold names, sketches, and accounts of the expedition. These records become testimony in Part IV. Note the people the characters save or lose, promises they make, and their treatment of each faction. If the journal is lost or left blank, the characters can give their account from memory.
 
 **Eiren Valora** assigns **Kaede Veyr** to guide the party east — Kaede knows the safest routes through the front and has made this crossing before. She isn't told why the party is going, only where.
 
 ## Ending the Chapter
 
-> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
-> As you leave Elysgard, the distant sky glows with fire. Golden sunlight collides with crimson flames beyond the mountains. The Sundering War continues, uncaring, unyielding. Somewhere beyond the eastern battlefield, history is waiting.
+>> As you leave Elysgard, the distant sky glows with fire. Golden sunlight collides with crimson flames beyond the mountains. The Sundering War continues, uncaring, unyielding. Somewhere beyond the eastern battlefield, history is waiting.
