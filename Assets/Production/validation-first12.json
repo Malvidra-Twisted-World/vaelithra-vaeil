@@ -1,0 +1,218 @@
+[
+  {
+    "file": "C01-wounded-wagon-driver-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2641196,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 382632,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "C02-refugee-child-human-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2633201,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 340795,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "C03-refugee-child-tiefling-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2603885,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 345279,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "C04-elderly-cook-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2793468,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 339560,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "C05-supporting-refugee-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2754852,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 343197,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "C06-wounded-refugee-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2601087,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 359253,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "N01-nameless-woman-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2581403,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 361604,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "N04-kaede-veyr-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2549455,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 353868,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "N05-kaelion-veyr-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2858273,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 343550,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "N06-mordren-ashveil-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2653310,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 366810,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "T01-silverbinder-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2706554,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 345986,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "T02-covenant-warband-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2798361,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 340378,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
