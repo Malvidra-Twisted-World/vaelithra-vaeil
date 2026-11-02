@@ -1,0 +1,108 @@
+{
+  "method": "built-in image_gen",
+  "date": "2026-11-02",
+  "maps": [
+    {
+      "id": "M02",
+      "name": "hollow-refuge",
+      "prompt": "Use case: illustration-story. Asset: finished VTT tactical battlemap for Hollow Refuge, a ruined farming hamlet in a divine-infernal war, no characters. Strict directly overhead orthographic view, flat readable floor plan, painterly high quality fantasy cartography. Landscape 4:3 composition, as close to 4000x3000 as possible. Planning scale forty columns by thirty rows, five feet per cell, but NO VISIBLE GRID. Dirt road enters west middle and east middle, both clearly open. Central open village square with ONE broken wooden wagon and scattered repair supplies; space for nineteen medium tokens plus five players without crowding. Six small damaged farmhouses around square, roofless cutaway interiors showing floors, doorways and low ruined walls, several sheltered rooms with TWO accessible paths from square. Northward evacuation lane leads off top edge and can reconnect east. Small cooking area with pot northwest of wagon; south open approach and lanes between buildings. Place rubble and a few broken fences as cover while keeping paths at least ten feet wide. War-scarred earth, muted moss, weathered brown wood, gray stone, restrained parchment-earth colors, soft overcast daylight, clear local contrast. Village NOT currently burning, no large fire or smoke hiding terrain. Buildings at consistent footprint scale, wagon roughly ten feet long. No troops, civilians, bodies, tokens, portraits, letters, labels, legends, compass, measurements, watermarks, frame, inset, grid lines, isometric perspective or horizon. Entire canvas is playable terrain."
+    },
+    {
+      "id": "M03",
+      "name": "sunwatch-bridge",
+      "prompt": "Use case: illustration-story. Finished VTT tactical battlemap, strict orthographic overhead, painterly fantasy cartography of Sunwatch mountain checkpoint and stone bridge. Landscape 3:2. Planning scale36x24 cells five feet each, NO DRAWN GRID. A sturdy bridge crosses a deep north-south mountain chasm from west to east, bridge TWENTY FEET WIDE and SIXTY FEET LONG relative to map footprint180x120feet. BOTH large approaches fully visible, room for five PCs and five knights to talk and form positions. West approach has one small roofless evacuated stone checkpoint with benches and intact supply crates; road enters west edge and continues over bridge to east edge. Eastern broad stone landing with ample room for honor guard to arrive. White-gray mountain stone, subtle gold sunlight, wildflower moss on ledges, chasm depth indicated by darker rock not clouds hiding edges. Unbroken bridge floor, NO holes mandatory jumps or traps. No figures, tokens, flames, text, labels, grid, compass, watermarks, perspective skyline or inset. Readable consistent prop scale and clear ledges."
+    },
+    {
+      "id": "M04",
+      "name": "infinite-archive",
+      "prompt": "Use case: illustration-story. Finished VTT scene map, strict orthographic directly overhead, painterly fantasy cartography, cool silver and charcoal with warm restrained lamplight, landscape9:7. Infinite Archive: playable local section under endless high library, NO VISIBLE ROOF. A great ancient silver-leaved tree central-upper, canopy delicate translucent silver foliage allowing view of wide white-stone clearing underneath. Simple wooden archivist desk with six chairs on lower side of tree, large open book on low stone reading stand nearby to right, clearly separate objects. Wide accessible paths between many bookcases, gentle narrow channels of pale silver magical light with small flush crossings, shelves continue off canvas implying infinity. Entry threshold bottom center with two white stone jambs and silver frame, book motif without writing. Comfortable space for eight tokens near desk and book, not a combat arena. Terrain plan36x28 five-foot spaces, NO VISIBLE GRID. Books and furniture at consistent scale; no giant table, altar, sacrifice equipment, monsters, portals, characters, tokens, text, labels, numbers, watermark, frame or perspective."
+    },
+    {
+      "id": "M01",
+      "name": "elysgard-sanctuary",
+      "prompt": "Use case: illustration-story. Finished VTT exploration overview of Elysgard, a small peaceful refugee sanctuary hamlet sheltered between WHITE limestone cliffs. Strict overhead painterly fantasy cartography, landscape4:3. Six distinct buildings around open courtyard: modest temple largest at upper center with small bell tower, medical hall with herb garden left, hall of memory with sheltered flower-lined memorial courtyard upper left, grand library upper right, two simple communal lodging buildings lower sides. One open gate bottom-right leading to eastern road. Soft daylight, silver-white cloth insignia WITHOUT writing, modest lived-in architecture, ordinary supplies, flowering trees. Buildings shown as roofless clean cutaway interiors so NPCs can be placed in medical hall, temple, library and memory hall; not overbusy tiny roof textures. Temple has a modest quiet audience room with long shelves, empty simple chair and circular clock design beneath pale glass floor, NO throne room. No secret route or portal to Archive, no underground panel, no characters, tokens, grid, labels, names, compass, text, numbers, war banners or giant palace. Whole village visible with walkable interconnected paths and ample courtyard. High detail harmonious natural earth and cool white stone palette."
+    }
+  ],
+  "tokens": [
+    {
+      "id": "N01",
+      "name": "nameless-woman",
+      "prompt": "Use case: illustration-story. Asset: ONE finished circular VTT portrait token, square canvas, 1024x1024 if possible. Professional fantasy painted portrait, believable anatomy, richly detailed face clearly readable at small token size, restrained semi-realistic brushwork, soft dramatic light. Head and upper chest inside ONE thin weathered neutral silver circular rim taking 92 percent of canvas; face large, slight three-quarter turn looking toward viewer. Backdrop within circle muted charcoal painterly. OUTSIDE the circular rim genuinely fully transparent alpha. No square opaque background, checkerboard drawn into image, words, letters, numbers, logos, icons, multiple faces or multiple tokens. No crop of circular rim. The visual details below are appearance choices, not established campaign canon. Young adult human-looking woman, luminous SILVER irises both clearly visible, compassionate but wary expression, olive complexion, practical dark brown chin-to-shoulder length loosely tied hair, worn gray-brown traveling cloak over simple linen tunic. No armor, no holy symbol, no weapon, no pointed elf ears, no crown. Dust from travel, capable survivor, not glamorous. Her silver eyes are the defining feature."
+    },
+    {
+      "id": "N04",
+      "name": "kaede-veyr",
+      "prompt": "Use case: illustration-story. Asset: ONE finished circular VTT portrait token, square canvas, 1024x1024 if possible. Professional fantasy painted portrait, believable anatomy, richly detailed face clearly readable at small token size, restrained semi-realistic brushwork, soft dramatic light. Head and upper chest inside ONE thin weathered neutral silver circular rim taking 92 percent of canvas; face large, slight three-quarter turn looking toward viewer. Backdrop within circle muted charcoal painterly. OUTSIDE the circular rim genuinely fully transparent alpha. No square opaque background, checkerboard drawn into image, words, letters, numbers, logos, icons, multiple faces or multiple tokens. No crop of circular rim. The visual details below are appearance choices, not established campaign canon. Adult HUMAN woman scout of the Silverlight order, attentive friendly eyes, warm brown skin, chestnut hair in a practical braid, muted moss-green hood folded back, charcoal leather traveling jerkin, small unlettered silver book-shaped clasp. No horns, no elf ears, no heavy plate, no crown. Resourceful messenger and refugee guide."
+    },
+    {
+      "id": "N05",
+      "name": "kaelion-veyr",
+      "prompt": "Use case: illustration-story. Asset: ONE finished circular VTT portrait token, square canvas, 1024x1024 if possible. Professional fantasy painted portrait, believable anatomy, richly detailed face clearly readable at small token size, restrained semi-realistic brushwork, soft dramatic light. Head and upper chest inside ONE thin weathered neutral silver circular rim taking 92 percent of canvas; face large, slight three-quarter turn looking toward viewer. Backdrop within circle muted charcoal painterly. OUTSIDE the circular rim genuinely fully transparent alpha. No square opaque background, checkerboard drawn into image, words, letters, numbers, logos, icons, multiple faces or multiple tokens. No crop of circular rim. The visual details below are appearance choices, not established campaign canon. Adult male AASIMAR paladin commander of the Radiant Inquisition, dignified stern composed face, warm golden irises, short neatly kept dark blond hair, clean-shaven. Immaculate white enamel and gold plate armor, one gold sunburst ornament; small part of vertical Sun Spear at shoulder. No wings covering face, no crown, no angry snarl. Disciplined formal white-gold silhouette, assertive but not cruel."
+    },
+    {
+      "id": "N06",
+      "name": "mordren-ashveil",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, readable large head and upper chest, believable anatomy, soft dramatic lighting. Single thin weathered neutral SILVER circular rim taking 92 percent of canvas, complete rim not cropped. Muted charcoal painted backdrop INSIDE circle. OUTSIDE circle fully TRANSPARENT alpha. No square background, no drawn checkerboard, text, numbers, labels, logos, extra faces, extra tokens. Slight three-quarter turn toward viewer. Adult male TIEFLING warlock commander of Ashen Covenant, reddish umber skin, swept-back dark horns, dark wavy hair, tired amber eyes, rough short beard, protective suspicious expression. Scavenged charcoal and dark red armor, weathered scarf, subtle ember-lit pact brand at shoulder. Weary survivor, not a monstrous snarl."
+    },
+    {
+      "id": "T01",
+      "name": "silverbinder",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, readable large head and upper chest, believable anatomy, soft dramatic lighting. Single thin weathered neutral SILVER circular rim taking 92 percent of canvas, complete rim not cropped. Muted charcoal painted backdrop INSIDE circle. OUTSIDE circle fully TRANSPARENT alpha. No square background, no drawn checkerboard, text, numbers, labels, logos, extra faces, extra tokens. Slight three-quarter turn toward viewer. Adult HUMAN Radiant Inquisition soldier, pale skin, impersonal disciplined face visible within white-gold helmet, white enamel armor. Sun pike shaft at one side and coil of SILVER BINDING CHAINS prominently across shoulder. Formal uniform, less ornate than paladin commander."
+    },
+    {
+      "id": "T02",
+      "name": "covenant-warband",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, readable large head and upper chest, believable anatomy, soft dramatic lighting. Single thin weathered neutral SILVER circular rim taking 92 percent of canvas, complete rim not cropped. Muted charcoal painted backdrop INSIDE circle. OUTSIDE circle fully TRANSPARENT alpha. No square background, no drawn checkerboard, text, numbers, labels, logos, extra faces, extra tokens. Slight three-quarter turn toward viewer. Adult female TIEFLING warband soldier, dusky red skin, short dark horns, cropped black hair, alert weary eyes, mismatched charcoal patched leather armor and dark red cloth, one salvaged steel shoulder plate, ember-colored weapon edge. Scavenged practical gear, no crown, no snarl."
+    },
+    {
+      "id": "C01",
+      "name": "wounded-wagon-driver",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, large clearly readable head and upper chest, believable anatomy, soft dramatic lighting. ONE thin weathered neutral SILVER circular rim occupying 92 percent of canvas, rim complete and not cropped. Muted charcoal painted backdrop INSIDE circle; OUTSIDE circle genuinely fully TRANSPARENT alpha. No opaque square, drawn checkerboard, words, labels, letters, numbers, logos, extra heads, extra tokens. Slight three-quarter turn toward viewer. Civilian refugee, no weapons or armor. Middle-aged HUMAN male wagon driver, warm weathered brown skin, dark graying beard, tired kind eyes, dusty ochre work shirt and brown suspenders, linen bandage tied around forehead, practical ordinary laborer. Distinctive broad face, expression worried but alive. No blood or gore."
+    },
+    {
+      "id": "C02",
+      "name": "refugee-child-human",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, large clearly readable head and upper chest, believable anatomy, soft dramatic lighting. ONE thin weathered neutral SILVER circular rim occupying 92 percent of canvas, rim complete and not cropped. Muted charcoal painted backdrop INSIDE circle; OUTSIDE circle genuinely fully TRANSPARENT alpha. No opaque square, drawn checkerboard, words, labels, letters, numbers, logos, extra heads, extra tokens. Slight three-quarter turn toward viewer. Civilian refugee, no weapons or armor. HUMAN girl about ten years old, tan skin, tousled dark shoulder-length hair, large worried brown eyes, faded sage green homespun tunic and simple neck scarf. Vulnerable ordinary civilian, age-appropriate clothing, no weapons, no injury. Face distinct from other child."
+    },
+    {
+      "id": "C03",
+      "name": "refugee-child-tiefling",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, large clearly readable head and upper chest, believable anatomy, soft dramatic lighting. ONE thin weathered neutral SILVER circular rim occupying 92 percent of canvas, rim complete and not cropped. Muted charcoal painted backdrop INSIDE circle; OUTSIDE circle genuinely fully TRANSPARENT alpha. No opaque square, drawn checkerboard, words, labels, letters, numbers, logos, extra heads, extra tokens. Slight three-quarter turn toward viewer. Civilian refugee, no weapons or armor. TIEFLING boy about eleven, muted lavender skin, tiny rounded swept-back horns, dark curly short hair, golden eyes, patched rust-orange tunic, apprehensive curious expression, ordinary refugee child in age-appropriate clothing. No weapons, no injury, no monstrous expression."
+    },
+    {
+      "id": "C04",
+      "name": "elderly-cook",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, large clearly readable head and upper chest, believable anatomy, soft dramatic lighting. ONE thin weathered neutral SILVER circular rim occupying 92 percent of canvas, rim complete and not cropped. Muted charcoal painted backdrop INSIDE circle; OUTSIDE circle genuinely fully TRANSPARENT alpha. No opaque square, drawn checkerboard, words, labels, letters, numbers, logos, extra heads or extra tokens. Slight three-quarter turn toward viewer. Civilian refugee, no weapons or armor. Elderly HUMAN female cook, dark brown skin, silver-gray tightly coiled hair beneath faded blue headwrap, deeply lined warm worried face, dusty indigo dress and flour-marked apron, upper handle of plain wooden ladle at shoulder edge. Ordinary resilient grandmother, no magic, no injury."
+    },
+    {
+      "id": "C05",
+      "name": "supporting-refugee",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, large clearly readable head and upper chest, believable anatomy, soft dramatic lighting. ONE thin weathered neutral SILVER circular rim occupying 92 percent of canvas, rim complete and not cropped. Muted charcoal painted backdrop INSIDE circle; OUTSIDE circle genuinely fully TRANSPARENT alpha. No opaque square, drawn checkerboard, words, labels, letters, numbers, logos, extra heads or extra tokens. Slight three-quarter turn toward viewer. Civilian refugee, no weapons or armor. Adult male AASIMAR civilian refugee, softly warm golden brown skin, subtle golden irises, curly dark hair, short neat beard, tired compassionate expression, practical faded teal linen tunic, tan travel shawl. No halo, no wings, no armor. He is supporting an injured friend in the story but show ONLY THIS ONE person in portrait."
+    },
+    {
+      "id": "C06",
+      "name": "wounded-refugee",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token on square 1024x1024 canvas. Professional semi-realistic fantasy painterly art, large clearly readable head and upper chest, believable anatomy, soft dramatic lighting. ONE thin weathered neutral SILVER circular rim occupying 92 percent of canvas, rim complete and not cropped. Muted charcoal painted backdrop INSIDE circle; OUTSIDE circle genuinely fully TRANSPARENT alpha. No opaque square, drawn checkerboard, words, labels, letters, numbers, logos, extra heads or extra tokens. Slight three-quarter turn toward viewer. Civilian refugee, no weapons or armor. Adult female HUMAN refugee, light olive skin, straight dark hair tied back, tired gray eyes, pale gray homespun shirt under faded burgundy shawl, clean linen shoulder bandage, exhausted vulnerable expression, alive. No blood or gore. Only one person, no helper in picture."
+    },
+    {
+      "id": "N02",
+      "name": "vaeil",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token, square canvas, large head and upper chest, semi-realistic painted fantasy with restrained brushwork, believable anatomy, soft dramatic light, dark charcoal background INSIDE one thin weathered neutral silver circular rim. Full circular rim visible; OUTSIDE circle genuinely fully transparent alpha. No text, letters, numbers, logos, extra heads or extra tokens. Adult man, God of Time and Keeper of Archive, gentle quietly humorous scholarly face, silver-gray hair, warm gray eyes, modest charcoal and pale linen robes, small silver pendant shaped like a book bound WITHOUT a spine. No crown, armor, staff, ominous aura. Humble exhausted archivist with a warm patient expression."
+    },
+    {
+      "id": "N03",
+      "name": "ra",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token, square canvas, large head and upper chest, semi-realistic painted fantasy with restrained brushwork, believable anatomy, soft dramatic light, dark charcoal background INSIDE one thin weathered neutral silver circular rim. Full circular rim visible; OUTSIDE circle genuinely fully transparent alpha. No text, letters, numbers, logos, extra heads or extra tokens. Adult male Sun God appearing as a warm charismatic HUMAN traveler, deep warm brown skin, dark hair touched with gold, kind confident amber eyes, simple white robe trimmed in gold thread. NO armor, NO weapons, NO falcon or animal head, NO crown, NO wings. Thin warm rim light, face clearly visible, understated divinity."
+    },
+    {
+      "id": "N07",
+      "name": "kiyomasa",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token, square canvas, large head and upper chest, semi-realistic painted fantasy with restrained brushwork, believable anatomy, soft dramatic light, dark charcoal background INSIDE one thin weathered neutral silver circular rim. Full circular rim visible; OUTSIDE circle genuinely fully transparent alpha. No text, letters, numbers, logos, extra heads or extra tokens. Adult HUMAN-looking male Grand Captain of Sun's Host, East Asian features, black hair pulled into short practical knot, calm respectful composed mature face, neatly trimmed short beard. White-gold armor with rising-sun motif, helmet removed, longsword hilt at shoulder. Distinct from blond commander Kaelion; protective disciplined knight, not samurai caricature."
+    },
+    {
+      "id": "T03",
+      "name": "dawn-knight",
+      "prompt": "Use case: illustration-story. ONE finished circular VTT portrait token, square canvas, large head and upper chest, semi-realistic painted fantasy with restrained brushwork, believable anatomy, soft dramatic light, dark charcoal background INSIDE one thin weathered neutral silver circular rim. Full circular rim visible; OUTSIDE circle genuinely fully transparent alpha. No text, letters, numbers, logos, extra heads or extra tokens. Adult female HUMAN knight of Sun's Host, medium brown skin, dark cropped hair and open face, white-and-gold practical plate armor with rising sun motif and gold cloth shoulder mantle, no helmet, radiant sunblade edge at side. No chains or pike. Clearly distinguishable from helmeted Silverbinder infantry. Calm disciplined expression."
+    }
+  ]
+}
