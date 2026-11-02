@@ -120,13 +120,15 @@ Use the following possibilities, drawing on people and places established during
 
 ***Recording the Visions.*** Anything the characters write, draw, or dictate about these futures appears in the book's margins beside their names. Vaeil considers these accounts as he searches for a future worth protecting. He does not require the characters to agree with him, and they can question his rejection of a possibility.
 
-### The Final Possibility
+### The Last Possibility
 
 When the characters have examined the visions, the book reveals a future in which the Gods prevail and the Infernal people survive. The war ends without ending hatred, but people can rebuild and change. Vaeil chooses to pursue this possibility.
 
 The page also shows an ordinary scene reflecting the expedition's consequences: someone the characters saved rebuilding a home, a former enemy sharing a table with refugees, or a survivor carrying on the work of someone who died. Details recorded in the margins appear in the scene. A death that occurred during the adventure remains part of this future.
 
-***The Cost.*** As Vaeil studies the page, silver writing appears beneath the vision:
+### The Promise of History
+
+As Vaeil studies the page, silver writing appears beneath the vision:
 
 >>**Probability: Near Zero.**
 >>

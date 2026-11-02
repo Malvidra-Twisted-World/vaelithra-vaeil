@@ -20,7 +20,7 @@ She still cannot remember a name or home. The pull toward the mountains has beco
 
 ### An Unusual Morning
 
-Before sunrise, anyone keeping watch notices the woman awake. She sits alone with a piece of charcoal, sketching unfamiliar symbols onto a flat stone — constellations, circles, interwoven lines resembling impossible maps. When she notices someone watching, she quietly wipes the stone clean: *"Sorry. I don't know why I keep drawing them."*
+Before sunrise, anyone keeping watch notices the woman awake. She sits alone with a piece of charcoal, sketching constellations and interwoven lines onto a flat stone. She cannot explain why the patterns seem familiar. A character who examines or copies the drawing can later recognize the same arrangement in the Archive's streams of light in Part IV; no check is required to make that comparison.
 
 ## The Sunwatch Outpost
 
@@ -58,7 +58,7 @@ After the encounter is resolved, the Sun Rays reach the expedition. Adjust the f
 
 The Sun Rays say little. They form a loose perimeter around Kiyomasa, watching, waiting — an honor guard rather than reinforcements. If asked why they've come, the closest one simply says: *"Because the Sun is coming. We came ahead of him."*
 
-***Ra's Arrival.*** Ra acknowledges any negotiated agreement, asks Kiyomasa to release anyone restrained, and hears the characters' account if force was used. Wounds, promises, and deaths remain consequences of the encounter.
+***Development.*** Continue with "The Sun's Witness" in Part IV when Ra reaches the expedition. He acknowledges agreements and hears the characters' account of the encounter; wounds and deaths remain part of that account.
 
 The warmth of the afternoon suddenly deepens. The sunlight grows brighter — not blinding, comforting. Kiyomasa, the knights, and every Sun Ray present drop to one knee in silent reverence, heads bowed not to the party, not to the woman, but toward the rising sun.
 

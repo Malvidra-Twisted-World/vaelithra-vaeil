@@ -16,7 +16,7 @@ Eventually the trail leads to a ruined farming village. Though abandoned by both
 
 ### The Woman with Silver Eyes
 
-Near the centre of the village, a young woman kneels beside a broken wagon. She calmly repairs a damaged wheel while two children watch with fascination. She wears no armour, carries no banner, and bears no holy symbol — only a worn travelling cloak. When spoken to, she is polite but distant, and cannot answer even the simplest question:
+Near the centre of the village, a young woman kneels beside a broken wagon. She calmly repairs a damaged wheel while two children watch with fascination. She wears no armour, carries no banner, and bears no holy symbol — only a worn travelling cloak. When spoken to, she is polite but distant.
 
 ***Speaking with the Woman.*** She does not remember her name or where she came from. She feels drawn toward the eastern mountains, as though someone there is waiting for her, but cannot identify whom. She has spent the past few months helping people displaced by the war. The title "Catalyst" frightens her because violence follows wherever it is used.
 
