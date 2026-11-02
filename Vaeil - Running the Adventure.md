@@ -143,6 +143,10 @@ In Part IV, the characters give their testimony at **Vaeil's Desk**, investigate
 
 **Mordren Ashveil** (Tiefling, Warlock) leads the **Ashen Covenant**, a warband of Infernal survivors, refugees-turned-soldiers, and demon-aligned veterans who believe the Divine Coalition will simply kill the Catalyst if they find her first. Mordren lost his home and his brother to the war; he doesn't want to slaughter the Divine race, only to stop losing to them — and he believes the Catalyst is the one chance to turn the war around, which makes him dangerous in a different way than Kaelion: he doesn't want to kill Vaelithra, he wants to use her.
 
+## VTT Preparation
+
+See [[DM Tools/VTT - Maps and NPC Tokens|VTT — Maps and NPC Tokens]] for the map list, token roster, encounter quantities, and conditional placement. It is a production manifest; the images have not yet been generated.
+
 ## Preparing the Journal
 
 Before the party departs Silverlight Sanctuary in Part I, an elderly archivist hands them a blank leather journal: *"History is written after it happens. Please... bring this one back filled."* Consider having a player keep an in-character log of the adventure in this journal — it can be a nice keepsake, and ties the party directly into Silverlight's oath to record the truth.
