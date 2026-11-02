@@ -2,14 +2,14 @@
 title: VTT - Maps and NPC Tokens
 campaign: Vaelithra VI - Vaeil
 visibility: dm-only
-status: asset_manifest_not_generated
+status: core_assets_generated_local_not_imported
 updated: 2026-11-02
 tags: [dnd, vaelithra, vaeil, vtt, prep]
 ---
 
 # VTT — Map & Token NPC
 
-Daftar kebutuhan berdasarkan *Running the Adventure*, Part I–IV, dan *Appendix B*. **Gambar belum dibuat dan belum diimpor ke VTT.** Lokasi dan jumlah pasukan mengikuti modul; ukuran map, tata letak rinci, palet, dan titik penempatan di bawah adalah usulan produksi. Ukuran dan jarak belum diuji dalam permainan.
+Daftar kebutuhan berdasarkan *Running the Adventure*, Part I–IV, dan *Appendix B*. **Paket inti sudah dibuat: 4 map + 16 desain token. Belum diimpor ke VTT.** Lihat [[VTT - Asset Gallery]] dan [[VTT - Import and Placement]]. Ukuran kerja pada tabel adalah target brief; dimensi asli hasil generasi ada pada panduan impor dan manifest aset. Lokasi dan jumlah pasukan mengikuti modul; ukuran map, tata letak rinci, palet, dan titik penempatan di bawah adalah usulan produksi. Ukuran dan jarak belum diuji dalam permainan.
 
 ## Paket map
 
@@ -126,4 +126,4 @@ Api, gerobak terbakar, asap, serta penanda restrained/wounded sebaiknya berupa o
 
 ## Hasil audit aset saat ini
 
-Folder adventure ini belum berisi gambar map atau token lokal. *Appendix B* mempunyai satu embed gambar Imgur, tetapi file tersebut belum diverifikasi atau dijadikan aset lokal. Vault memiliki gambar `D&D/Fradonic Ra.png` dan `D&D/Fradonic Ra - Ra's Vessel Info.png`; nama file dan konteksnya tidak cukup untuk menjadikannya gambar Ra era Sundering War. Tidak ada gambar tersebut yang disalin atau diubah pada tahap inventaris ini.
+Paket inti lokal kini tersimpan di `Assets/Maps` dan `Assets/Tokens`. Lima pemimpin Silverlight, Sun Rays, dan ilustrasi perjalanan opsional belum dibuat. *Appendix B* mempunyai satu embed gambar Imgur, tetapi file tersebut belum diverifikasi atau dijadikan aset lokal. Vault memiliki gambar `D&D/Fradonic Ra.png` dan `D&D/Fradonic Ra - Ra's Vessel Info.png`; nama file dan konteksnya tidak cukup untuk menjadikannya gambar Ra era Sundering War. Tidak ada gambar tersebut yang disalin atau diubah pada tahap inventaris ini.

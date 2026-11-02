@@ -1,0 +1,202 @@
+{
+  "status": "generated_local_not_imported",
+  "method": "built-in image_gen",
+  "date": "2026-11-02",
+  "map_count": 4,
+  "token_design_count": 16,
+  "files": [
+    {
+      "id": "M01",
+      "file": "Maps/M01-elysgard-sanctuary-player-v1.png",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "f53a552e609e3ac013aff8be056aea088bf9aed32be58f29a1702bc740e5eb35",
+      "bytes": 4132710
+    },
+    {
+      "id": "M02",
+      "file": "Maps/M02-hollow-refuge-player-v1.png",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "e02ed6de81468f88d56a67d79792647e34319eb55347736765073a3099d12771",
+      "bytes": 4117765
+    },
+    {
+      "id": "M03",
+      "file": "Maps/M03-sunwatch-bridge-player-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "64711bb853e4440a75239acec4e27aaeaed3b2070760e855eb8922493ab1d410",
+      "bytes": 4089365
+    },
+    {
+      "id": "M04",
+      "file": "Maps/M04-infinite-archive-player-v1.png",
+      "width": 1422,
+      "height": 1106,
+      "sha256": "22c0e266507816d3bbafbd893dc3b1d9b71bdd3759a8a177801050dbb50b4fd5",
+      "bytes": 3721915
+    },
+    {
+      "id": "C01",
+      "file": "Tokens/C01-wounded-wagon-driver-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c828f8e4ba6e6d11534d1de47ec49f8f43117b6e553b58f0e1c3eeab7222d30d",
+      "bytes": 2641196
+    },
+    {
+      "id": "C02",
+      "file": "Tokens/C02-refugee-child-human-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d276d0c8d7c039ff0b53279c214bc9788f71c7fc9556fe4df9fa9201e8eb00a6",
+      "bytes": 2633201
+    },
+    {
+      "id": "C03",
+      "file": "Tokens/C03-refugee-child-tiefling-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "319901f7301fa7a18c6ae5e20c9a7df8c7f4a9e9494646852b8f2a210306cf3e",
+      "bytes": 2603885
+    },
+    {
+      "id": "C04",
+      "file": "Tokens/C04-elderly-cook-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "464f30d388f5b19ca2dafbe3fe68302e8311f9782b3f5f8bff194519b9a1200d",
+      "bytes": 2793468
+    },
+    {
+      "id": "C05",
+      "file": "Tokens/C05-supporting-refugee-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5a7372eee922ef31fd93b90cc45deb4fec9a0d17c10eaf95b8f64c1d50a4e5d3",
+      "bytes": 2754852
+    },
+    {
+      "id": "C06",
+      "file": "Tokens/C06-wounded-refugee-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fd68820f67f17ae552626287fcf9bf486ca49f79123ea472a7aade8c96f8fca2",
+      "bytes": 2601087
+    },
+    {
+      "id": "N01",
+      "file": "Tokens/N01-nameless-woman-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "75e4d93b2ad7c9e96dd64c25febb45e3aa9411206cd1c7411ed24ad39b2264bb",
+      "bytes": 2581403
+    },
+    {
+      "id": "N02",
+      "file": "Tokens/N02-vaeil-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "61f75b1c7177497990b290132362ac197fa9225d378b84f3d3e8300b815ab8fa",
+      "bytes": 2691624
+    },
+    {
+      "id": "N03",
+      "file": "Tokens/N03-ra-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "7c0e6d96cf17d5fd6d473c1fcf6956c25e247a6ceaa6d25e0871344390b93505",
+      "bytes": 2600217
+    },
+    {
+      "id": "N04",
+      "file": "Tokens/N04-kaede-veyr-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "cc64397012dc397dfc945eee13e719da016a4a0e2997c019010b569cd9490e59",
+      "bytes": 2549455
+    },
+    {
+      "id": "N05",
+      "file": "Tokens/N05-kaelion-veyr-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "705cc9c5348cf882c708b007cfd128c60d6da296734293775ac2ab5be703f24d",
+      "bytes": 2858273
+    },
+    {
+      "id": "N06",
+      "file": "Tokens/N06-mordren-ashveil-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "47593ca5a708ae9f64f987c0fb2e23d98d4704483b29fa1bc9d34a442963ae3c",
+      "bytes": 2653310
+    },
+    {
+      "id": "N07",
+      "file": "Tokens/N07-kiyomasa-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c11ac8113e809780df907321a7fdcefd61b6da11a32fedb53072fddb8e7dfda2",
+      "bytes": 2852744
+    },
+    {
+      "id": "T01",
+      "file": "Tokens/T01-silverbinder-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1fec496569be7c2392e7f4dcbf9c19d8b6e4b70c9c8bb84be96687807a07a941",
+      "bytes": 2706554
+    },
+    {
+      "id": "T02",
+      "file": "Tokens/T02-covenant-warband-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fb1502cb95b1b28e21a2fb3ca93d9a0b6c872cde8b9299a15199f671b1005cfe",
+      "bytes": 2798361
+    },
+    {
+      "id": "T03",
+      "file": "Tokens/T03-dawn-knight-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ecf0d21dd60e41841a63ba83684acb0c62f3d85545e09b007d249ff14a813b02",
+      "bytes": 2690392
+    }
+  ],
+  "grid": {
+    "M01": null,
+    "M02": {
+      "columns": 40,
+      "rows": 30,
+      "feet_per_cell": 5,
+      "native_pixels_per_cell": 36.2
+    },
+    "M03": {
+      "columns": 36,
+      "rows": 24,
+      "feet_per_cell": 5,
+      "native_pixels_per_cell": 42.666666666666664
+    },
+    "M04": {
+      "columns": 36,
+      "rows": 28,
+      "feet_per_cell": 5,
+      "native_pixels_per_cell": 39.5
+    }
+  },
+  "optional_not_generated": [
+    "Five Silverlight leaders",
+    "Sun Rays",
+    "Eastern Battlefield Road backdrop",
+    "Hidden Path backdrop"
+  ],
+  "notes": [
+    "Native dimensions preserved; not upscaled to brief targets.",
+    "Character appearance details not specified in the module are visual interpretations.",
+    "Maps have no baked grid, labels, or creature tokens.",
+    "No app import or playtest performed."
+  ]
+}

@@ -145,7 +145,7 @@ In Part IV, the characters give their testimony at **Vaeil's Desk**, investigate
 
 ## VTT Preparation
 
-See [[DM Tools/VTT - Maps and NPC Tokens|VTT — Maps and NPC Tokens]] for the map list, token roster, encounter quantities, and conditional placement. It is a production manifest; the images have not yet been generated.
+See [[DM Tools/VTT - Maps and NPC Tokens|VTT — Maps and NPC Tokens]] for the map list, token roster, encounter quantities, and conditional placement. The core images are available locally: see [[DM Tools/VTT - Asset Gallery|Asset Gallery]] and [[DM Tools/VTT - Import and Placement|Import and Placement]]. They have not been imported into a VTT.
 
 ## Preparing the Journal
 
