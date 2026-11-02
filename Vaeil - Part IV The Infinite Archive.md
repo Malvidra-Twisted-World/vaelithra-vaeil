@@ -67,7 +67,7 @@ Only now does he stand. He offers a respectful bow, not only to the party, but a
 
 **"Who is she?"** Vaeil turns toward the woman and studies her once more, not as a scholar examining a mystery, but as someone admiring the first page of a book that has yet to be written. Finally he answers: *"I do not know."* Allow the weight of that answer to settle — even Ra looks surprised.
 
-**"You... don't know?"** Vaeil nods: *"No."* He places a hand upon the desk beside him: *"For ages beyond counting, this Archive has preserved every story ever lived."* His fingers lightly brush the surface of a closed book: *"Every birth."* Another book: *"Every death."* Another: *"Every choice."* He looks once more toward the woman: *"...Yet when I look upon her... I find no page."*
+**"You... don't know?"** Vaeil nods: *"No."* He places a hand upon the desk beside him: *"For ages beyond counting, this Archive has preserved every story ever lived."* His fingers lightly brush the surface of a closed book: *"Every birth."* Another book: *"Every death."* Another: *"Every choice."* He looks once more toward the woman: *"...Yet when I look for her beginning... I find no page."*
 
 **"Then why did you ask Ra to bring her here?"** Vaeil glances toward his friend: *"Long ago, I asked him to guard that road for anyone history could not explain. I did not know whether anyone would come."* He turns back to the party: *"Then the Bell rang thirteen times, and I asked you to investigate. You have brought the question to my door."*
 
@@ -267,7 +267,7 @@ Without warning, the Bell of Time rings — once, twice, again. Its echoes sprea
 
 ### What Leaves the Archive
 
-Before returning the party to Elysgard, **Vaelithra** places their journal beside a fresh copy of its pages. She asks: *"What should we tell them?"* Give the party time to decide what they personally report about Vaeil, the woman, the factions, and the sacrifice. They may preserve a public account, request that dangerous details remain within the Archive, or leave differing testimonies. Vaelithra keeps the complete account, including any disagreement; withholding a secret from the public does not erase it from history.
+Before returning the party to Elysgard, **Vaelithra** places their journal beside a fresh copy of its pages. If the journal was lost or never used, she brings a blank book and asks them to dictate, draw, or write their account now. She asks: *"What should we tell them?"* Give the party time to decide what they personally report about Vaeil, the woman, the factions, and the sacrifice. They may preserve a public account, request that dangerous details remain within the Archive, or leave differing testimonies. Vaelithra keeps the complete account, including any disagreement; withholding a secret from the public does not erase it from history.
 
 These decisions have immediate consequences. Choose the details that follow from play:
 
