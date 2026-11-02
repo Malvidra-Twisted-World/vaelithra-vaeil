@@ -34,9 +34,13 @@ Allow the players several minutes to interact with **the woman** and the village
 
 This encounter is not won simply by defeating enemies. The party succeeds if they can prevent the refugees from being massacred while surviving the conflict.
 
-**Success.** At least four civilians survive, and the woman escapes safely.
+**Set the stakes.** Before initiative or negotiation, identify six civilians in immediate danger; the remaining villagers are already sheltering away from the road. Invite the players to help name these six and place them around the village. Tell the party where the threats are and what actions can move someone to safety. A civilian who reaches a secure shelter or evacuation route stays safe unless a new, clearly announced threat reaches it.
 
-**Failure.** Most civilians perish, the village is destroyed, and both factions identify the woman as the Catalyst.
+**Success.** At least four of those six civilians reach safety, and the woman leaves without being held by either faction. A negotiated evacuation or concealed departure counts fully.
+
+**Costly Escape.** If fewer than four reach safety, continue with the people actually saved and the losses actually suffered. Describe only the destruction caused during play. Being recognized as the Catalyst is a separate consequence of being seen, not an automatic punishment for casualties.
+
+**If She Is Captured.** The captors want her alive. Pause the fighting for a custody negotiation, an escort offer, or a rescue attempt; each commander is willing to hear a practical way to keep her out of the rival faction's hands. Ask the party what they do, and follow that choice before resuming the mountain journey. Do not simply have her escape off-screen.
 
 This encounter assumes 4–5 level 7 characters and pits **Ser Kaelion Veyr** and four **Silverbinders** of the Radiant Inquisition against **Mordren Ashveil** and five **Covenant Warband** soldiers of the Ashen Covenant. Full stat modifications for these creatures are given in *Appendix B: Creatures*.
 
@@ -62,7 +66,9 @@ These events reinforce that the battlefield itself is as dangerous as the soldie
 
 ## Ending the Encounter
 
-As the fighting dies down, one soldier catches sight of her kneeling beside a wounded child. His eyes widen. *"...Silver eyes."* Everyone stops. Someone shouts it outright: **"THE CATALYST!"**
+Use the confrontation below only if soldiers remain present and the woman has not already been recognized or successfully concealed. If she escaped unseen, honor that success: she speaks with the party privately on the evacuation route. If the party negotiated custody or an escort, play the agreed departure instead. Do not return withdrawn or dead commanders to the scene.
+
+If the confrontation applies, one soldier catches sight of her kneeling beside a wounded child. His eyes widen. *"...Silver eyes."* Everyone stops. Someone shouts it outright: **"THE CATALYST!"**
 
 **The woman** freezes. Her expression isn't anger, and she doesn't ready herself to fight — it's fear. She's heard that word before, and it never means anything good.
 

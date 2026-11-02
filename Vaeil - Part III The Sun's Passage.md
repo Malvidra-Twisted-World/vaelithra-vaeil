@@ -41,7 +41,7 @@ As the party exits the outpost, they find the mountain bridge ahead already occu
 
 ***Roleplaying Kiyomasa.*** **Kiyomasa** is not cruel, nor arrogant — he sincerely believes his mission will prevent a greater tragedy. He never insults Silverlight; in fact, he openly respects them. If questioned, he explains: *"Our Lord teaches us that the sun gives life to all. If the Catalyst truly exists, then allowing her to wander freely may doom the very lives we seek to protect."* If the party mentions the Radiant Inquisition, Kiyomasa's expression hardens slightly: *"We are not them. Kaelion would put chains on her. We would only walk beside her."* He refuses to elaborate further.
 
-***Negotiation.*** The party may attempt to persuade Kiyomasa to stand aside. Successful roleplay and ability checks can reveal that Sōyō Gumi has been receiving visions concerning the Catalyst, that even they do not know who she truly is, and that they have never been ordered to kill her. If negotiations fail, combat begins.
+***Negotiation.*** The party may attempt to persuade Kiyomasa to stand aside. Successful roleplay and ability checks can reveal that Sōyō Gumi has been receiving visions concerning the Catalyst, that even they do not know who she truly is, and that they have never been ordered to kill her. Kiyomasa can accept a joint escort, a meeting with Ra while the party remains beside her, or a guarantee of her safety that meets his concern. Ask the woman whether she agrees to the proposed arrangement; she accepts protection freely offered, but objects to confinement. If an agreement is reached, honor it and continue to the Sun Rays' arrival without combat. Combat begins only if the parties attempt incompatible actions, such as forcing custody or breaking through the cordon after talks collapse.
 
 ### Hold the Bridge
 
@@ -51,7 +51,7 @@ This encounter pits **Grand Captain Kiyomasa** and four **Dawn Knights** against
 
 ***Tactics.*** Sōyō Gumi fights with exceptional discipline. Rather than chasing individual targets, they move as a unit, and their primary objective is to isolate the silver-eyed woman. If she is restrained, the encounter immediately shifts back into roleplay as Kiyomasa once again asks the party to stand down.
 
-***Development.*** Whether **Kiyomasa** is reduced below half his hit points or the party simply persuades him to stand down, the same thing happens: he raises a hand. Immediately, every knight lowers their weapon. No one moves. No one speaks. Kiyomasa slowly looks toward the eastern horizon. Then he smiles: *"...They're here."*
+***Development.*** Resolve the party's agreement, escape attempt, or surrender before introducing Ra. Kiyomasa calls a halt if reduced below half his hit points; this opens talks rather than automatically settling custody. If the party gets past the bridge, the Sun Rays meet them farther along the road without forcing them back. If they remain at the bridge after settling the encounter, Kiyomasa raises a hand. Immediately, every knight lowers their weapon. No one moves. No one speaks. Kiyomasa slowly looks toward the eastern horizon. Then he smiles: *"...They're here."*
 
 ***The Sun Rays Arrive.*** Kiyomasa isn't the only one Sōyō Gumi sent. Several points of light detach themselves from the horizon and resolve, one by one, into figures — the legendary **Sun Ray** champions themselves, Ra's own First Generation, arriving not to fight but simply to be present.
 
@@ -59,6 +59,8 @@ This encounter pits **Grand Captain Kiyomasa** and four **Dawn Knights** against
 > Light gathers at the far end of the bridge — not a spell, not an attack, just distant points of gold drawing closer until they become people. A woman with an aasimar's radiance lands weightlessly beside Kiyomasa. A towering goliath sets down a warhammer he never intended to swing. A monk in traveling robes simply appears, as though she had always been standing there. None of them draw a weapon. None of them look at the party as a threat — only, briefly, with quiet curiosity toward the silver-eyed woman.
 
 The Sun Rays say little. They form a loose perimeter around Kiyomasa, watching, waiting — an honor guard rather than reinforcements. If asked why they've come, the closest one simply says: *"Because the Sun is coming. We came ahead of him."*
+
+Remember how the party resolved the bridge: Ra acknowledges a negotiated agreement, asks Kiyomasa to release anyone restrained, and hears the party's account if force was used. His arrival does not undo wounds, promises, or deaths.
 
 The warmth of the afternoon suddenly deepens. The sunlight grows brighter — not blinding, comforting. Kiyomasa, the knights, and every Sun Ray present drop to one knee in silent reverence, heads bowed not to the party, not to the woman, but toward the rising sun.
 
