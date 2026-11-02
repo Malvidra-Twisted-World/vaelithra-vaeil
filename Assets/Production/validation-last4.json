@@ -1,0 +1,74 @@
+[
+  {
+    "file": "N02-vaeil-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2691624,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 361878,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "N03-ra-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2600217,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 346170,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "N07-kiyomasa-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2852744,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 346854,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "T03-dawn-knight-v1.png",
+    "width": 1254,
+    "height": 1254,
+    "color_type": 6,
+    "bytes": 2690392,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_pixels": 378983,
+    "corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
